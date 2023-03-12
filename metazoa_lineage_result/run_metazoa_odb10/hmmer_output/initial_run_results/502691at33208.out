@@ -1,0 +1,23 @@
+#                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                   accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#           ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pdum_DN64454_c0_g1_i1:2-391     -            130 502691at33208        -            206   7.8e-56  187.1   0.2   1   1   2.6e-58     1e-55  186.6   0.2     1   106     9   129     9   130 0.92 -
+Pdum_DN85282_c0_g2_i1:176-1141  -            322 502691at33208        -            206   3.6e-13   47.7   0.1   1   1   5.2e-15   2.1e-12   45.2   0.1     1   100    68   180    68   290 0.86 -
+Pdum_DN86425_c1_g1_i3:231-1745  -            505 502691at33208        -            206   0.00012   19.8   0.0   1   1   4.8e-07   0.00019   19.2   0.0    22    99    95   173    91   182 0.86 -
+Pdum_DN87272_c0_g2_i1:240-1658  -            473 502691at33208        -            206   0.00037   18.3   0.0   1   1   1.7e-06   0.00067   17.4   0.0    23   100    71   147    66   157 0.74 -
+Pdum_DN85823_c0_g1_i1:1301-2395 -            365 502691at33208        -            206    0.0006   17.6   0.0   1   1   2.3e-06   0.00093   17.0   0.0    21    96    73   147    69   165 0.75 -
+Pdum_DN84386_c0_g1_i2:381-2090  -            570 502691at33208        -            206     0.001   16.8   0.0   1   1   5.9e-06    0.0024   15.6   0.0    23   100   154   231   149   244 0.81 -
+Pdum_DN83381_c0_g1_i2:2567-3604 -            346 502691at33208        -            206     0.002   15.9   0.0   1   1     7e-06    0.0028   15.4   0.0    23    97    67   141    37   150 0.77 -
+Pdum_DN90676_c1_g1_i5:2216-3313 -            366 502691at33208        -            206     0.028   12.1   0.0   1   1   0.00012      0.05   11.3   0.0    23    86    89   151    59   166 0.82 -
+Pdum_DN87303_c0_g1_i8:3662-5044 -            461 502691at33208        -            206     0.033   11.9   0.0   1   1   0.00014     0.057   11.1   0.0    22    97    85   162    82   175 0.73 -
+Pdum_DN78808_c2_g1_i4:657-1790  -            378 502691at33208        -            206     0.038   11.7   0.0   1   1   0.00014     0.058   11.1   0.0    22    99    84   160    55   171 0.79 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/f/phylo/WORMS/busco_analysis/busco_downloads/lineages/metazoa_odb10/hmms/502691at33208.hmm
+# Target file:     /mnt/f/phylo/WORMS/busco_analysis/metazoa_lineage_result/run_metazoa_odb10/metaeuk_output/initial_results/Platynereis_ref.eggnog_filter.nucl.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /mnt/f/phylo/WORMS/busco_analysis/metazoa_lineage_result/run_metazoa_odb10/hmmer_output/initial_run_results/502691at33208.out --cpu 1 /mnt/f/phylo/WORMS/busco_analysis/busco_downloads/lineages/metazoa_odb10/hmms/502691at33208.hmm /mnt/f/phylo/WORMS/busco_analysis/metazoa_lineage_result/run_metazoa_odb10/metaeuk_output/initial_results/Platynereis_ref.eggnog_filter.nucl.fasta.modified.fas 
+# Current dir:     /mnt/f/phylo/WORMS/busco_analysis
+# Date:            Sun Mar 12 20:42:36 2023
+# [ok]

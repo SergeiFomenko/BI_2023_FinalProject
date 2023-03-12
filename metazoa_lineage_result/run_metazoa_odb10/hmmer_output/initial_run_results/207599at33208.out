@@ -1,0 +1,16 @@
+#                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                   accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#           ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pdum_DN90498_c6_g2_i1:0-623     -            208 207599at33208        -            383   2.8e-87  290.8   0.4   1   1   1.6e-90   3.2e-87  290.7   0.4     2   189     3   208     2   208 0.92 -
+Pdum_DN90498_c6_g1_i1:1540-2838 -            433 207599at33208        -            383   1.6e-34  117.2   2.9   1   2   1.7e-28   3.3e-25   86.5   0.2   220   325     6   149     2   158 0.77 -
+Pdum_DN90498_c6_g1_i1:1540-2838 -            433 207599at33208        -            383   1.6e-34  117.2   2.9   2   2   6.9e-10   1.4e-06   25.2   0.3   321   372   176   233   169   239 0.85 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/f/phylo/WORMS/busco_analysis/busco_downloads/lineages/metazoa_odb10/hmms/207599at33208.hmm
+# Target file:     /mnt/f/phylo/WORMS/busco_analysis/metazoa_lineage_result/run_metazoa_odb10/metaeuk_output/initial_results/Platynereis_ref.eggnog_filter.nucl.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /mnt/f/phylo/WORMS/busco_analysis/metazoa_lineage_result/run_metazoa_odb10/hmmer_output/initial_run_results/207599at33208.out --cpu 1 /mnt/f/phylo/WORMS/busco_analysis/busco_downloads/lineages/metazoa_odb10/hmms/207599at33208.hmm /mnt/f/phylo/WORMS/busco_analysis/metazoa_lineage_result/run_metazoa_odb10/metaeuk_output/initial_results/Platynereis_ref.eggnog_filter.nucl.fasta.modified.fas 
+# Current dir:     /mnt/f/phylo/WORMS/busco_analysis
+# Date:            Sun Mar 12 20:41:46 2023
+# [ok]

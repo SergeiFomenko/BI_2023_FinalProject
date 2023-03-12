@@ -1,0 +1,36 @@
+#                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                   accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#           ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pdum_DN78896_c0_g2_i2:299-820   -            174 466942at33208        -            192   5.6e-40  133.6  12.3   1   2   5.6e-28   5.7e-26   87.9   0.4    69   151    13   102    11   106 0.90 -
+Pdum_DN78896_c0_g2_i2:299-820   -            174 466942at33208        -            192   5.6e-40  133.6  12.3   2   2   2.9e-16   2.9e-14   49.7   5.9   151   192   119   162   110   162 0.90 -
+Pdum_DN88222_c1_g2_i3:964-1185  -             74 466942at33208        -            192   1.8e-06   24.3   7.2   1   1   2.3e-08   2.3e-06   24.0   7.2   150   191     3    44     1    45 0.79 -
+Pdum_DN90850_c3_g1_i6:724-1113  -            130 466942at33208        -            192   3.4e-05   20.1   0.9   1   1   5.3e-07   5.4e-05   19.5   0.9   148   182    71   109    50   122 0.72 -
+Pdum_DN71580_c0_g1_i2:953-1255  -            101 466942at33208        -            192   7.5e-05   19.0   5.6   1   2   7.3e-07   7.5e-05   19.0   5.6   148   189     5    46     2    48 0.84 -
+Pdum_DN71580_c0_g1_i2:953-1255  -            101 466942at33208        -            192   7.5e-05   19.0   5.6   2   2      0.25        26    1.0   0.2   160   170    74    84    67    88 0.87 -
+Pdum_DN89082_c3_g2_i2:683-1165  -            161 466942at33208        -            192   0.00089   15.5   1.6   1   2   8.8e-06   0.00089   15.5   1.6   146   190     8    54     3    56 0.82 -
+Pdum_DN89082_c3_g2_i2:683-1165  -            161 466942at33208        -            192   0.00089   15.5   1.6   2   2       9.1   9.3e+02   -4.1   4.1   163   189   111   133    92   159 0.60 -
+Pdum_DN80620_c1_g2_i1:1-663     -            221 466942at33208        -            192    0.0011   15.2   1.5   1   2   1.1e-05    0.0011   15.2   1.5   141   182     5    49     3    55 0.77 -
+Pdum_DN80620_c1_g2_i1:1-663     -            221 466942at33208        -            192    0.0011   15.2   1.5   2   2       6.5   6.6e+02   -3.6   0.2   156   168   105   117    99   118 0.81 -
+Pdum_DN90607_c2_g2_i7:977-3040  -            688 466942at33208        -            192    0.0026   14.0   3.9   1   1   5.3e-05    0.0054   13.0   3.9   143   191     4    59     1    60 0.73 -
+Pdum_DN66504_c0_g1_i1:893-1309  -            139 466942at33208        -            192     0.011   12.0   2.1   1   1   0.00014     0.014   11.6   2.1   166   192     3    30     1    30 0.83 -
+Pdum_DN73123_c2_g1_i4:781-948   -             56 466942at33208        -            192     0.041   10.1   6.8   1   1   0.00049      0.05    9.8   6.8   161   191    19    47     1    48 0.73 -
+Pdum_DN84258_c0_g2_i1:1966-2466 -            167 466942at33208        -            192     0.048    9.9   9.1   1   1   0.00077     0.079    9.2   9.1   152   191     5    48     1    49 0.79 -
+Pdum_DN87453_c1_g1_i1:4135-5076 -            314 466942at33208        -            192     0.081    9.1   5.8   1   1    0.0017      0.17    8.1   5.8   156   191   215   255   195   256 0.69 -
+Pdum_DN79934_c1_g1_i1:181-327   -             49 466942at33208        -            192      0.29    7.3   9.0   1   1    0.0027      0.27    7.4   9.0   162   191    18    45     1    46 0.82 -
+Pdum_DN62931_c0_g1_i3:2208-2468 -             87 466942at33208        -            192      0.48    6.6  15.3   1   2   0.00077     0.079    9.2   9.7   153   191     3    42     1    43 0.80 -
+Pdum_DN62931_c0_g1_i3:2208-2468 -             87 466942at33208        -            192      0.48    6.6  15.3   2   2      0.27        28    0.9   0.2   145   163    59    77    50    86 0.70 -
+Pdum_DN86171_c1_g1_i1:20-343    -            108 466942at33208        -            192         1    5.5  15.3   1   2   7.3e-05    0.0075   12.5   5.4   154   192    11    50     3    50 0.84 -
+Pdum_DN86171_c1_g1_i1:20-343    -            108 466942at33208        -            192         1    5.5  15.3   2   2       1.3   1.3e+02   -1.3   2.2   143   159    85   101    66   108 0.72 -
+Pdum_DN88786_c1_g1_i5:1196-1669 -            158 466942at33208        -            192       7.3    2.8  19.3   1   3    0.0017      0.17    8.1   8.4   152   185     6    41     2    56 0.76 -
+Pdum_DN88786_c1_g1_i5:1196-1669 -            158 466942at33208        -            192       7.3    2.8  19.3   2   3      0.79        81   -0.6   0.1   142   165    40    63    35    65 0.68 -
+Pdum_DN88786_c1_g1_i5:1196-1669 -            158 466942at33208        -            192       7.3    2.8  19.3   3   3      0.53        54   -0.1   3.1   144   178    87   127    74   134 0.57 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/f/phylo/WORMS/busco_analysis/busco_downloads/lineages/metazoa_odb10/hmms/466942at33208.hmm
+# Target file:     /mnt/f/phylo/WORMS/busco_analysis/metazoa_lineage_result/run_metazoa_odb10/metaeuk_output/rerun_results/Platynereis_ref.eggnog_filter.nucl.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /mnt/f/phylo/WORMS/busco_analysis/metazoa_lineage_result/run_metazoa_odb10/hmmer_output/rerun_results/466942at33208.out --cpu 1 /mnt/f/phylo/WORMS/busco_analysis/busco_downloads/lineages/metazoa_odb10/hmms/466942at33208.hmm /mnt/f/phylo/WORMS/busco_analysis/metazoa_lineage_result/run_metazoa_odb10/metaeuk_output/rerun_results/Platynereis_ref.eggnog_filter.nucl.fasta.modified.fas 
+# Current dir:     /mnt/f/phylo/WORMS/busco_analysis
+# Date:            Sun Mar 12 21:15:11 2023
+# [ok]

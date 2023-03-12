@@ -1,0 +1,26 @@
+#                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                   accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#           ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pdum_DN79233_c0_g1_i2:1221-4643 -           1141 65302at33208         -            976         0 1603.2   3.8   1   1         0         0 1595.2   3.8     1   976     5  1141     5  1141 0.91 -
+Pdum_DN90940_c3_g1_i5:160-3810  -           1217 65302at33208         -            976   2.1e-49  165.9   0.0   1   5   7.7e-05     0.052    9.1   0.0     6    89    10    97     4   123 0.86 -
+Pdum_DN90940_c3_g1_i5:160-3810  -           1217 65302at33208         -            976   2.1e-49  165.9   0.0   2   5   1.2e-07   7.8e-05   18.4   0.0   168   293   218   361   200   365 0.72 -
+Pdum_DN90940_c3_g1_i5:160-3810  -           1217 65302at33208         -            976   2.1e-49  165.9   0.0   3   5   3.6e-17   2.4e-14   49.9   0.0   296   443   392   557   380   569 0.83 -
+Pdum_DN90940_c3_g1_i5:160-3810  -           1217 65302at33208         -            976   2.1e-49  165.9   0.0   4   5     2e-05     0.014   11.0   0.0   525   652   693   821   661   827 0.84 -
+Pdum_DN90940_c3_g1_i5:160-3810  -           1217 65302at33208         -            976   2.1e-49  165.9   0.0   5   5   2.5e-23   1.6e-20   70.3   0.0   709   960   935  1204   919  1210 0.82 -
+Pdum_DN90186_c4_g1_i2:3203-5059 -            619 65302at33208         -            976   4.1e-11   39.2   0.3   1   4    0.0098       6.6    2.1   0.0     7    38     1    32     1    47 0.90 -
+Pdum_DN90186_c4_g1_i2:3203-5059 -            619 65302at33208         -            976   4.1e-11   39.2   0.3   2   4   3.9e-07   0.00026   16.7   0.1   235   295   326   388   224   394 0.73 -
+Pdum_DN90186_c4_g1_i2:3203-5059 -            619 65302at33208         -            976   4.1e-11   39.2   0.3   3   4   8.3e-05     0.055    9.0   0.0   326   365   493   532   489   537 0.93 -
+Pdum_DN90186_c4_g1_i2:3203-5059 -            619 65302at33208         -            976   4.1e-11   39.2   0.3   4   4    0.0009       0.6    5.5   0.0   368   420   563   618   558   619 0.82 -
+Pdum_DN58973_c0_g1_i1:0-374     -            125 65302at33208         -            976   1.3e-06   24.3   0.0   1   1   2.3e-09   1.6e-06   24.0   0.0   286   366    43   124    40   125 0.86 -
+Pdum_DN56951_c0_g1_i4:0-338     -            113 65302at33208         -            976   0.00061   15.5   0.0   1   1     1e-06   0.00067   15.3   0.0     6    89    10    97     4   109 0.86 -
+Pdum_DN91406_c3_g2_i1:497-2518  -            674 65302at33208         -            976     0.021   10.3   0.0   1   1   4.4e-05     0.029    9.9   0.0   827   921   496   590   484   596 0.83 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/f/phylo/WORMS/busco_analysis/busco_downloads/lineages/metazoa_odb10/hmms/65302at33208.hmm
+# Target file:     /mnt/f/phylo/WORMS/busco_analysis/metazoa_lineage_result/run_metazoa_odb10/metaeuk_output/initial_results/Platynereis_ref.eggnog_filter.nucl.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /mnt/f/phylo/WORMS/busco_analysis/metazoa_lineage_result/run_metazoa_odb10/hmmer_output/initial_run_results/65302at33208.out --cpu 1 /mnt/f/phylo/WORMS/busco_analysis/busco_downloads/lineages/metazoa_odb10/hmms/65302at33208.hmm /mnt/f/phylo/WORMS/busco_analysis/metazoa_lineage_result/run_metazoa_odb10/metaeuk_output/initial_results/Platynereis_ref.eggnog_filter.nucl.fasta.modified.fas 
+# Current dir:     /mnt/f/phylo/WORMS/busco_analysis
+# Date:            Sun Mar 12 20:42:57 2023
+# [ok]

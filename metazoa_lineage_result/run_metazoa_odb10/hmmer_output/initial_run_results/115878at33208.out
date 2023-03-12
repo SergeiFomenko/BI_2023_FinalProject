@@ -1,0 +1,27 @@
+#                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                   accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#           ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pdum_DN86321_c0_g1_i3:430-2310  -            627 115878at33208        -            444  9.5e-159  526.9   2.2   1   3      0.35   1.6e+02   -1.2   0.0    25    44    44    68     3    93 0.68 -
+Pdum_DN86321_c0_g1_i3:430-2310  -            627 115878at33208        -            444  9.5e-159  526.9   2.2   2   3       0.9     4e+02   -2.5   0.0    40    84   120   164   101   185 0.51 -
+Pdum_DN86321_c0_g1_i3:430-2310  -            627 115878at33208        -            444  9.5e-159  526.9   2.2   3   3  3.9e-161  1.8e-158  526.0   0.6    63   442   218   621   192   622 0.89 -
+Pdum_DN90222_c0_g2_i1:59-1651   -            531 115878at33208        -            444    0.0001   19.2   0.0   1   1   4.2e-07   0.00019   18.4   0.0   217   256    13    52     6    56 0.88 -
+Pdum_DN90582_c6_g2_i1:11-565    -            185 115878at33208        -            444     0.002   15.0   0.2   1   2   0.00045       0.2    8.4   0.0   220   250    16    46    10    54 0.85 -
+Pdum_DN90582_c6_g2_i1:11-565    -            185 115878at33208        -            444     0.002   15.0   0.2   2   2    0.0063       2.8    4.6   0.1   316   335   120   139   114   141 0.81 -
+Pdum_DN89061_c2_g1_i8:1665-3728 -            688 115878at33208        -            444    0.0068   13.2   0.0   1   1   2.7e-05     0.012   12.4   0.0   222   252    14    44     9    50 0.83 -
+Pdum_DN89829_c1_g1_i2:938-3016  -            693 115878at33208        -            444    0.0094   12.7   0.0   1   1   3.5e-05     0.016   12.0   0.0   230   251    22    43    11    51 0.89 -
+Pdum_DN90078_c1_g1_i2:2618-7261 -           1548 115878at33208        -            444     0.011   12.5   0.1   1   2    0.0072       3.2    4.4   0.1   227   247   140   160   133   192 0.85 -
+Pdum_DN90078_c1_g1_i2:2618-7261 -           1548 115878at33208        -            444     0.011   12.5   0.1   2   2    0.0031       1.4    5.6   0.0   178   244  1214  1279  1191  1289 0.78 -
+Pdum_DN76680_c0_g1_i2:1187-4071 -            667 115878at33208        -            444     0.024   11.4   0.0   1   1   9.1e-05      0.04   10.7   0.0   229   253    60    84    50    92 0.88 -
+Pdum_DN89525_c4_g1_i1:322-2220  -            633 115878at33208        -            444     0.028   11.2   0.1   1   2   0.00015     0.065   10.0   0.0   218   248    14    44     8    47 0.88 -
+Pdum_DN89525_c4_g1_i1:322-2220  -            633 115878at33208        -            444     0.028   11.2   0.1   2   2       1.3   5.7e+02   -3.0   0.1   163   199   515   551   493   563 0.63 -
+Pdum_DN85808_c0_g2_i16:8-628    -            207 115878at33208        -            444      0.03   11.1   0.0   1   1     9e-05      0.04   10.7   0.0   202   247    53    98    39   106 0.84 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/f/phylo/WORMS/busco_analysis/busco_downloads/lineages/metazoa_odb10/hmms/115878at33208.hmm
+# Target file:     /mnt/f/phylo/WORMS/busco_analysis/metazoa_lineage_result/run_metazoa_odb10/metaeuk_output/initial_results/Platynereis_ref.eggnog_filter.nucl.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /mnt/f/phylo/WORMS/busco_analysis/metazoa_lineage_result/run_metazoa_odb10/hmmer_output/initial_run_results/115878at33208.out --cpu 1 /mnt/f/phylo/WORMS/busco_analysis/busco_downloads/lineages/metazoa_odb10/hmms/115878at33208.hmm /mnt/f/phylo/WORMS/busco_analysis/metazoa_lineage_result/run_metazoa_odb10/metaeuk_output/initial_results/Platynereis_ref.eggnog_filter.nucl.fasta.modified.fas 
+# Current dir:     /mnt/f/phylo/WORMS/busco_analysis
+# Date:            Sun Mar 12 20:41:31 2023
+# [ok]

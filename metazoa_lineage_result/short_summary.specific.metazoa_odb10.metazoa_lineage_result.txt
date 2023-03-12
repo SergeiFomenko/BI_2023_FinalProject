@@ -1,0 +1,19 @@
+# BUSCO version is: 5.4.4 
+# The lineage dataset is: metazoa_odb10 (Creation date: 2021-02-17, number of genomes: 65, number of BUSCOs: 954)
+# Summarized benchmarking in BUSCO notation for file /mnt/f/phylo/WORMS/busco_analysis/Platynereis_ref.eggnog_filter.nucl.fasta
+# BUSCO was run in mode: euk_tran
+
+	***** Results: *****
+
+	C:85.3%[S:84.5%,D:0.8%],F:8.3%,M:6.4%,n:954	   
+	814	Complete BUSCOs (C)			   
+	806	Complete and single-copy BUSCOs (S)	   
+	8	Complete and duplicated BUSCOs (D)	   
+	79	Fragmented BUSCOs (F)			   
+	61	Missing BUSCOs (M)			   
+	954	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	metaeuk: 6.a5d39d9
+	busco: 5.4.4

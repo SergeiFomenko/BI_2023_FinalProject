@@ -1,0 +1,26 @@
+#                                                                                       --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                   accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#           ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pdum_DN91487_c2_g1_i5:1919-3343 -            475 544849at33208        -            133   5.9e-55  183.0  21.9   1   3       1.7   9.6e+02   -2.1   1.1    45    69   227   251   219   261 0.57 -
+Pdum_DN91487_c2_g1_i5:1919-3343 -            475 544849at33208        -            133   5.9e-55  183.0  21.9   2   3   9.9e-37   5.7e-34  115.1   4.0     2    73   279   350   278   372 0.92 -
+Pdum_DN91487_c2_g1_i5:1919-3343 -            475 544849at33208        -            133   5.9e-55  183.0  21.9   3   3   1.3e-25   7.2e-23   79.2   3.6    44   133   360   451   348   451 0.81 -
+Pdum_DN92117_c2_g1_i3:6154-6357 -             68 544849at33208        -            133   6.8e-19   66.3   5.0   1   2   5.5e-14   3.2e-11   41.5   0.5     3    46     5    45     3    46 0.95 -
+Pdum_DN92117_c2_g1_i3:6154-6357 -             68 544849at33208        -            133   6.8e-19   66.3   5.0   2   2   4.1e-11   2.4e-08   32.2   0.4     3    34    37    68    35    68 0.95 -
+Pdum_DN88836_c1_g1_i2:3045-3260 -             72 544849at33208        -            133   1.2e-16   59.1   3.2   1   2   8.8e-12     5e-09   34.4   0.2     4    45     1    44     1    45 0.88 -
+Pdum_DN88836_c1_g1_i2:3045-3260 -             72 544849at33208        -            133   1.2e-16   59.1   3.2   2   2   3.4e-10     2e-07   29.2   0.3     3    35    37    69    35    72 0.93 -
+Pdum_DN88836_c1_g1_i2:2430-2765 -            112 544849at33208        -            133   6.2e-16   56.7   0.1   1   2   1.1e-11   6.6e-09   34.0   0.0     2    37     1    36     1    59 0.90 -
+Pdum_DN88836_c1_g1_i2:2430-2765 -            112 544849at33208        -            133   6.2e-16   56.7   0.1   2   2   1.1e-07     6e-05   21.2   0.0     4    35    67    98    64   106 0.91 -
+Pdum_DN82875_c0_g1_i2:3377-3634 -             86 544849at33208        -            133   2.1e-10   38.9   0.0   1   1   3.7e-12   2.1e-09   35.6   0.0     2    71     3    84     2    86 0.91 -
+Pdum_DN90184_c1_g1_i1:2799-3041 -             81 544849at33208        -            133   4.5e-10   37.8   2.7   1   2   3.5e-05      0.02   13.0   0.1     3    36     4    37     2    50 0.87 -
+Pdum_DN90184_c1_g1_i1:2799-3041 -             81 544849at33208        -            133   4.5e-10   37.8   2.7   2   2   3.9e-09   2.3e-06   25.8   0.4     4    34    51    81    47    81 0.93 -
+Pdum_DN91843_c5_g1_i7:5444-5701 -             86 544849at33208        -            133   3.5e-08   31.7   0.1   1   1   3.3e-10   1.9e-07   29.3   0.1     7    75     3    81     1    86 0.81 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/f/phylo/WORMS/busco_analysis/busco_downloads/lineages/metazoa_odb10/hmms/544849at33208.hmm
+# Target file:     /mnt/f/phylo/WORMS/busco_analysis/metazoa_lineage_result/run_metazoa_odb10/metaeuk_output/initial_results/Platynereis_ref.eggnog_filter.nucl.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /mnt/f/phylo/WORMS/busco_analysis/metazoa_lineage_result/run_metazoa_odb10/hmmer_output/initial_run_results/544849at33208.out --cpu 1 /mnt/f/phylo/WORMS/busco_analysis/busco_downloads/lineages/metazoa_odb10/hmms/544849at33208.hmm /mnt/f/phylo/WORMS/busco_analysis/metazoa_lineage_result/run_metazoa_odb10/metaeuk_output/initial_results/Platynereis_ref.eggnog_filter.nucl.fasta.modified.fas 
+# Current dir:     /mnt/f/phylo/WORMS/busco_analysis
+# Date:            Sun Mar 12 20:42:43 2023
+# [ok]

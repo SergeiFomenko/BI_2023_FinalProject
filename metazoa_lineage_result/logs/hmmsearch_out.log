@@ -1,0 +1,129 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  /mnt/f/phylo/WORMS/busco_analysis/busco_downloads/lineages/metazoa_odb10/hmms/76852at33208.hmm
+# target sequence database:        /mnt/f/phylo/WORMS/busco_analysis/metazoa_lineage_result/run_metazoa_odb10/metaeuk_output/rerun_results/Platynereis_ref.eggnog_filter.nucl.fasta.modified.fas
+# per-dom hits tabular output:     /mnt/f/phylo/WORMS/busco_analysis/metazoa_lineage_result/run_metazoa_odb10/hmmer_output/rerun_results/76852at33208.out
+# number of worker threads:        1
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       76852at33208  [M=955]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence                       Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------                       -----------
+   1.8e-120  399.9  17.6     2e-120  399.7  17.6    1.0  1  Pdum_DN58325_c0_g1_i1:5-682     
+    8.8e-79  261.9   9.1    1.4e-77  257.9   9.1    1.9  1  Pdum_DN92402_c3_g2_i1:212-988   
+    7.7e-63  209.2   3.4    2.6e-38  127.9   3.2    2.0  2  Pdum_DN60506_c0_g1_i2:3-812     
+    2.3e-15   52.0   1.5      6e-15   50.6   1.0    1.8  1  Pdum_DN92402_c4_g2_i1:858-1829  
+
+
+Domain annotation for each sequence (and alignments):
+>> Pdum_DN58325_c0_g1_i1:5-682  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  399.7  17.6  5.3e-123    2e-120     283     499 ..       1     226 []       1     226 [] 0.96
+
+  Alignments for each domain:
+  == domain 1  score: 399.7 bits;  conditional E-value: 5.3e-123
+                 76852at33208 283 yssdspelqlRklgDLaFlvqhYelAyqaYhsaKrdfnadqawlyyAGalEmaalsafmqg....rrkpaeYmeeaittYln 360
+                                  y++++pe+q+R+++DLaF++q Ye+Ayq +h+aKrdf++d+awly AGa Ema+ls+fmqg    r++p++Ym+ a+ttYl+
+  Pdum_DN58325_c0_g1_i1:5-682   1 YTTEAPEMQMRRMADLAFMFQLYEMAYQGFHTAKRDFKNDHAWLYNAGAQEMACLSVFMQGnnsqRQYPHHYMDAAVTTYLS 82 
+                                  99*********************************************************973333689************98 PP
+
+                 76852at33208 361 tc..kfAtRatLlsteiLkskglyseaAkqlirmtsEdsDLrSALlLEqaayCFlkak.pmvRkyAfhmvLaGhrfskagqr 439
+                                       fAtRat+lste Lkskg+y eaA+q+i+mtsEdsDLrSALlLEqaa+CF+++k pmvRkyAfhm+LaGhrfska+qr
+  Pdum_DN58325_c0_g1_i1:5-682  83 CAapHFATRATILSTESLKSKGMYAEAAMQFIKMTSEDSDLRSALLLEQAAHCFINMKtPMVRKYAFHMILAGHRFSKAAQR 164
+                                  65448***************************************************9658********************** PP
+
+                 76852at33208 440 kHalrcYkqAlqvYkgkgWslAeDhinftigrqsfnlkqleeAveafekll..eskqsaqqQ 499
+                                  kHalr+Y qAlqvYkgk+WslAeDhinftigrqsfnl+ql+++++af++ll  +skqs+ qQ
+  Pdum_DN58325_c0_g1_i1:5-682 165 KHALRSYGQALQVYKGKSWSLAEDHINFTIGRQSFNLRQLDNSTAAFKHLLtmDSKQSSIQQ 226
+                                  **************************************************84469****999 PP
+
+>> Pdum_DN92402_c3_g2_i1:212-988  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  257.9   9.1   3.7e-80   1.4e-77       1     209 [.       7     255 ..       7     257 .. 0.85
+
+  Alignments for each domain:
+  == domain 1  score: 257.9 bits;  conditional E-value: 3.7e-80
+                   76852at33208   1 saqefiqnaf.plvavlcseeaeevcqknnLsfvellqPFckltseahlrdpsgq...iknlritvkdvn...ppqplar 73 
+                                    saqefiq++f p+vavlcs++a+ vcqknnLsfvel+qPF++l++ea++rdp +    i+nlr+ ++d+n   p  +la+
+  Pdum_DN92402_c3_g2_i1:212-988   7 SAQEFIQETFgPMVAVLCSHDANVVCQKNNLSFVELVQPFSRLSAEAQIRDPGNIahtIRNLRLHFQDMNsqpPNPTLAK 86 
+                                    689*************************************************8854469**********955334579** PP
+
+                   76852at33208  74 kllneavssa...................levpastpWfeayretflqvqfpsdHeFlkhylacllvvSsse.npveqlq 133
+                                    k+l +av+++                   l+++astpW+eayr++flqv +psdHeFlkh+la+++vvSs++ +p+eq++
+  Pdum_DN92402_c3_g2_i1:212-988  87 KILGDAVANSqplipensrnsvlsfgnydLQLSASTPWYEAYRDCFLQVAYPSDHEFLKHFLASVFVVSSQHpEPMEQFA 166
+                                    *******87534333334444444444447899*************************************9978****** PP
+
+                   76852at33208 134 kLsqelqqlqks...klpkWfssntlkyyvllHdvsegdeekaeavfeelkstygsnkcflLkiNsr..........klp 200
+                                    kL+++++++q++   klpkWf++n+l+yyvllHd  +gde+kae++++++k+tyg n+c+lL+iNsr          ++p
+  Pdum_DN92402_c3_g2_i1:212-988 167 KLTNQQATQQHQhphKLPKWFCPNILRYYVLLHDSNQGDETKAENIYQQMKTTYGVNACHLLHINSRalnstepteaNVP 246
+                                    ***99988777533379*************************************************93333333333468 PP
+
+                   76852at33208 201 dpWsqflkk 209
+                                    +pWs+fl++
+  Pdum_DN92402_c3_g2_i1:212-988 247 NPWSHFLQR 255
+                                    999999987 PP
+
+>> Pdum_DN60506_c0_g1_i2:3-812  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  127.9   3.2   6.9e-41   2.6e-38     107     209 ..       1     117 [.       1     121 [. 0.87
+   2 !   79.5   0.0     3e-26   1.2e-23     209     265 ..     214     270 .]     203     270 .] 0.97
+
+  Alignments for each domain:
+  == domain 1  score: 127.9 bits;  conditional E-value: 6.9e-41
+                 76852at33208 107 sdHeFlkhylacllvvSsse.npveqlqkLsqelqqlqks...klpkWfssntlkyyvllHdvsegdeekaeavfeelksty 184
+                                  sdHeFlkh+la+++vvSs++ +p+eq++kL+++++++q++   klpkWf++n+l+yyvllHd ++gde+kae++++++k+ty
+  Pdum_DN60506_c0_g1_i2:3-812   1 SDHEFLKHFLASVFVVSSQHpEPMEQFAKLTNQQATQQHQhphKLPKWFCPNILRYYVLLHDSHQGDETKAENIYQQMKTTY 82 
+                                  7*****************9978*********99988777533379************************************* PP
+
+                 76852at33208 185 gsnkcflLkiNsr..........klpdpWsqflkk 209
+                                  g n+c+lL+iNsr          ++p+pWs+fl++
+  Pdum_DN60506_c0_g1_i2:3-812  83 GVNACHLLHINSRalnstepteaNVPNPWSHFLQR 117
+                                  ************93333333333468999999987 PP
+
+  == domain 2  score: 79.5 bits;  conditional E-value: 3e-26
+                 76852at33208 209 khGacLtleDldrlrqfvqefavrallpyvekqirqLneqvanrkgvsrslfsatkk 265
+                                   hG cLtl+D+dr+r+fv+ef+vr+l+p++e+q+r Ln+q+++rkg++rslfsatkk
+  Pdum_DN60506_c0_g1_i2:3-812 214 AHGGCLTLSDHDRIRIFVHEFMVRGLVPWAERQLRLLNDQLMSRKGIHRSLFSATKK 270
+                                  7*******************************************************8 PP
+
+>> Pdum_DN92402_c4_g2_i1:858-1829  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   50.6   1.0   1.6e-17     6e-15     723     824 ..      10     132 ..       8     197 .. 0.65
+
+  Alignments for each domain:
+  == domain 1  score: 50.6 bits;  conditional E-value: 1.6e-17
+                    76852at33208 723 glkpgeslelplwlrgpdekg.helkllfyyesae..sklkyRllrhsav...seslsveatasr......sn....ss 785
+                                     +l pg+s+++p+w+rgp + g h++++lf yes +  +klkyR+lrh+av   s+s+ ++a+asr      sn    +s
+  Pdum_DN92402_c4_g2_i1:858-1829  10 DLGPGKSVSIPMWIRGPVKPGlHQVNFLFIYESLQenPKLKYRVLRHTAVinvSQSIGLRAVASRgcsshhSNsqqlNS 88 
+                                     589****************99789********976115789******98522278999999876522222222111146 PP
+
+                    76852at33208 786 llvsvevknlnqve.....eiellqvslvskkwkevklksqesv 824
+                                     + vs+ev+nl+q++     e++llqvs++s +w+  +l++q ++
+  Pdum_DN92402_c4_g2_i1:858-1829  89 IDVSLEVENLSQINepqisEVNLLQVSCASARWHLNHLSTQRHT 132
+                                     7899******98752222268999*********87666655433 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (955 nodes)
+Target sequences:                         1525  (309733 residues searched)
+Passed MSV filter:                        39  (0.0255738); expected 30.5 (0.02)
+Passed bias filter:                       27  (0.0177049); expected 30.5 (0.02)
+Passed Vit filter:                         6  (0.00393443); expected 1.5 (0.001)
+Passed Fwd filter:                         4  (0.00262295); expected 0.0 (1e-05)
+Initial search space (Z):               1525  [actual number of targets]
+Domain search space  (domZ):               4  [number of targets reported over threshold]
+# CPU time: 0.03u 0.02s 00:00:00.05 Elapsed: 00:00:00.04
+# Mc/sec: 7394.88
+//
+[ok]

@@ -1,0 +1,17 @@
+#                                                                                      --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                  accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#          ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+Pdum_DN64715_c0_g1_i3:138-590  -            151 606048at33208        -            141     2e-47  158.1   0.8   1   2     0.016        31    2.0   0.1     1    24     4    28     4    34 0.76 -
+Pdum_DN64715_c0_g1_i3:138-590  -            151 606048at33208        -            141     2e-47  158.1   0.8   2   2   6.7e-50   1.4e-46  155.5   0.1    13   121    33   145    22   150 0.87 -
+Pdum_DN77753_c0_g1_i3:943-1647 -            235 606048at33208        -            141   1.3e-11   42.1   5.4   1   2   3.3e-11   6.7e-08   30.1   0.0     6    50    96   140    91   144 0.87 -
+Pdum_DN77753_c0_g1_i3:943-1647 -            235 606048at33208        -            141   1.3e-11   42.1   5.4   2   2   2.1e-05     0.042   11.3   4.1    81   121   147   188   143   202 0.79 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /mnt/f/phylo/WORMS/busco_analysis/busco_downloads/lineages/metazoa_odb10/hmms/606048at33208.hmm
+# Target file:     /mnt/f/phylo/WORMS/busco_analysis/metazoa_lineage_result/run_metazoa_odb10/metaeuk_output/initial_results/Platynereis_ref.eggnog_filter.nucl.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /mnt/f/phylo/WORMS/busco_analysis/metazoa_lineage_result/run_metazoa_odb10/hmmer_output/initial_run_results/606048at33208.out --cpu 1 /mnt/f/phylo/WORMS/busco_analysis/busco_downloads/lineages/metazoa_odb10/hmms/606048at33208.hmm /mnt/f/phylo/WORMS/busco_analysis/metazoa_lineage_result/run_metazoa_odb10/metaeuk_output/initial_results/Platynereis_ref.eggnog_filter.nucl.fasta.modified.fas 
+# Current dir:     /mnt/f/phylo/WORMS/busco_analysis
+# Date:            Sun Mar 12 20:42:54 2023
+# [ok]
