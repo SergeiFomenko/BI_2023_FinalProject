@@ -1,0 +1,1296 @@
+0_0: A0A8W8KA18_CRAGI Homeobox protein cut-like 
+0_1: A0A8W8MBS7_CRAGI Uncharacterized protein 
+0_2: A0A8W8ML63_CRAGI Uncharacterized protein 
+0_3: K1P5F1_CRAGI Visual system homeobox 2 
+0_4: K1PJH4_CRAGI Homeobox protein SIX1 
+0_5: K1PW38_CRAGI Homeobox protein engrailed-like 
+0_6: K1QBF2_CRAGI Visual system homeobox 2 
+0_7: K1QS33_CRAGI POU domain protein 
+0_8: K1QUN5_CRAGI One cut domain family member 
+0_9: K1QWY6_CRAGI Paired box protein Pax-6 
+0_10: K1RYM7_CRAGI LAG1 longevity assurance-like protein 6 
+0_11: A0A068AZ42_CRAGI POU3 protein (Fragment) 
+0_12: A0A8W8HLC1_CRAGI Uncharacterized protein 
+0_13: A0A8W8HPX3_CRAGI Homeobox domain-containing protein 
+0_14: A0A8W8HQ61_CRAGI Homeobox domain-containing protein 
+0_15: A0A8W8HTT0_CRAGI Homeobox domain-containing protein 
+0_16: A0A8W8HTU2_CRAGI Homeobox domain-containing protein 
+0_17: A0A8W8HU29_CRAGI Homeobox domain-containing protein 
+0_18: A0A8W8HZU1_CRAGI Homeobox domain-containing protein 
+0_19: A0A8W8I420_CRAGI Homeobox domain-containing protein 
+0_20: A0A8W8I4C7_CRAGI Homeobox domain-containing protein 
+0_21: A0A8W8I588_CRAGI Homeobox domain-containing protein 
+0_22: A0A8W8I5K6_CRAGI Homeobox domain-containing protein 
+0_23: A0A8W8I5P7_CRAGI Homeobox domain-containing protein 
+0_24: A0A8W8I6I3_CRAGI Homeobox protein 
+0_25: A0A8W8I780_CRAGI Homeobox domain-containing protein 
+0_26: A0A8W8I791_CRAGI Visual system homeobox 2 
+0_27: A0A8W8I7D4_CRAGI Prospero domain-containing protein 
+0_28: A0A8W8I834_CRAGI Visual system homeobox 2 
+0_29: A0A8W8I884_CRAGI Prospero domain-containing protein 
+0_30: A0A8W8I8U6_CRAGI Prospero domain-containing protein 
+0_31: A0A8W8IAI7_CRAGI Homeobox domain-containing protein 
+0_32: A0A8W8IAW9_CRAGI Homeobox domain-containing protein 
+0_33: A0A8W8IBB5_CRAGI Uncharacterized protein 
+0_34: A0A8W8IBB7_CRAGI Uncharacterized protein 
+0_35: A0A8W8IBC2_CRAGI Uncharacterized protein 
+0_36: A0A8W8IBL0_CRAGI Homeobox domain-containing protein 
+0_37: A0A8W8IBN2_CRAGI Homeobox domain-containing protein 
+0_38: A0A8W8IBQ2_CRAGI Uncharacterized protein 
+0_39: A0A8W8IBX2_CRAGI Uncharacterized protein 
+0_40: A0A8W8ICT9_CRAGI Uncharacterized protein 
+0_41: A0A8W8ICU4_CRAGI Uncharacterized protein 
+0_42: A0A8W8ID51_CRAGI Homeobox domain-containing protein 
+0_43: A0A8W8ID58_CRAGI Homeobox domain-containing protein 
+0_44: A0A8W8IDF2_CRAGI Homeobox domain-containing protein 
+0_45: A0A8W8IEN3_CRAGI Homeobox domain-containing protein 
+0_46: A0A8W8IF71_CRAGI Homeobox domain-containing protein 
+0_47: A0A8W8IG58_CRAGI Homeobox domain-containing protein 
+0_48: A0A8W8IGN2_CRAGI Homeobox domain-containing protein 
+0_49: A0A8W8IH69_CRAGI Homeobox domain-containing protein 
+0_50: A0A8W8IKR1_CRAGI Homeobox domain-containing protein 
+0_51: A0A8W8IM60_CRAGI Homeobox domain-containing protein 
+0_52: A0A8W8IM65_CRAGI Homeobox domain-containing protein 
+0_53: A0A8W8IMV1_CRAGI Homeobox domain-containing protein 
+0_54: A0A8W8INP6_CRAGI Homeobox domain-containing protein 
+0_55: A0A8W8INQ7_CRAGI Homeobox domain-containing protein 
+0_56: A0A8W8IPA2_CRAGI Homeobox domain-containing protein 
+0_57: A0A8W8IPI1_CRAGI Uncharacterized protein 
+0_58: A0A8W8IPJ6_CRAGI Homeobox domain-containing protein 
+0_59: A0A8W8IQQ8_CRAGI Homeobox domain-containing protein 
+0_60: A0A8W8IQU2_CRAGI Uncharacterized protein 
+0_61: A0A8W8IS94_CRAGI Homeobox domain-containing protein 
+0_62: A0A8W8IS98_CRAGI Homeobox domain-containing protein 
+0_63: A0A8W8ISJ8_CRAGI Homeobox domain-containing protein 
+0_64: A0A8W8ITK7_CRAGI Homeobox domain-containing protein 
+0_65: A0A8W8ITN2_CRAGI Homeobox domain-containing protein 
+0_66: A0A8W8IUX3_CRAGI Homeobox domain-containing protein 
+0_67: A0A8W8IV11_CRAGI Homeobox domain-containing protein 
+0_68: A0A8W8IVV5_CRAGI Homeobox domain-containing protein 
+0_69: A0A8W8IW65_CRAGI Homeobox domain-containing protein 
+0_70: A0A8W8IWN5_CRAGI Homeobox domain-containing protein 
+0_71: A0A8W8IX86_CRAGI Homeobox domain-containing protein 
+0_72: A0A8W8IXT7_CRAGI Homeobox domain-containing protein 
+0_73: A0A8W8IXU5_CRAGI Homeobox domain-containing protein 
+0_74: A0A8W8IY98_CRAGI Homeobox domain-containing protein 
+0_75: A0A8W8IYA2_CRAGI Homeobox domain-containing protein 
+0_76: A0A8W8IYY1_CRAGI Homeodomain-only protein 
+0_77: A0A8W8IZA9_CRAGI Homeobox domain-containing protein 
+0_78: A0A8W8IZB2_CRAGI Homeobox domain-containing protein 
+0_79: A0A8W8IZU2_CRAGI Homeobox domain-containing protein 
+0_80: A0A8W8J181_CRAGI Homeobox domain-containing protein 
+0_81: A0A8W8J227_CRAGI Homeobox domain-containing protein 
+0_82: A0A8W8J275_CRAGI Homeobox domain-containing protein 
+0_83: A0A8W8JAR2_CRAGI POU domain protein 
+0_84: A0A8W8JP77_CRAGI Homeobox domain-containing protein 
+0_85: A0A8W8JSB0_CRAGI Homeobox domain-containing protein 
+0_86: A0A8W8JT33_CRAGI Homeobox domain-containing protein 
+0_87: A0A8W8JTR1_CRAGI Homeobox domain-containing protein 
+0_88: A0A8W8JW62_CRAGI Uncharacterized protein 
+0_89: A0A8W8JWH0_CRAGI Uncharacterized protein 
+0_90: A0A8W8JWV0_CRAGI Uncharacterized protein 
+0_91: A0A8W8JX80_CRAGI Homeobox domain-containing protein 
+0_92: A0A8W8JY31_CRAGI Homeobox domain-containing protein 
+0_93: A0A8W8JYB7_CRAGI Homeobox domain-containing protein 
+0_94: A0A8W8JYI5_CRAGI Uncharacterized protein 
+0_95: A0A8W8K0G0_CRAGI Uncharacterized protein 
+0_96: A0A8W8K458_CRAGI Homeobox domain-containing protein 
+0_97: A0A8W8K4K0_CRAGI Homeobox domain-containing protein 
+0_98: A0A8W8K4L4_CRAGI LIM/homeobox protein Awh 
+0_99: A0A8W8K5F1_CRAGI Homeobox domain-containing protein 
+0_100: A0A8W8K5L3_CRAGI Homeobox domain-containing protein 
+0_101: A0A8W8K796_CRAGI Homeobox domain-containing protein 
+0_102: A0A8W8K987_CRAGI Homeobox domain-containing protein 
+0_103: A0A8W8KAS8_CRAGI Homeobox domain-containing protein 
+0_104: A0A8W8KDY3_CRAGI Uncharacterized protein 
+0_105: A0A8W8KE56_CRAGI Homeobox domain-containing protein 
+0_106: A0A8W8KJ06_CRAGI Homeobox domain-containing protein 
+0_107: A0A8W8KK48_CRAGI Uncharacterized protein 
+0_108: A0A8W8KL69_CRAGI Uncharacterized protein 
+0_109: A0A8W8KM51_CRAGI Uncharacterized protein 
+0_110: A0A8W8KN12_CRAGI POU domain protein 
+0_111: A0A8W8KN17_CRAGI POU domain protein 
+0_112: A0A8W8KN59_CRAGI POU domain protein 
+0_113: A0A8W8KP93_CRAGI Homeobox domain-containing protein 
+0_114: A0A8W8KQD6_CRAGI POU domain protein 
+0_115: A0A8W8KQE1_CRAGI POU domain protein 
+0_116: A0A8W8KTQ1_CRAGI Homeobox domain-containing protein 
+0_117: A0A8W8KTT7_CRAGI Uncharacterized protein 
+0_118: A0A8W8KTU2_CRAGI Uncharacterized protein 
+0_119: A0A8W8KTU7_CRAGI Uncharacterized protein 
+0_120: A0A8W8KTV3_CRAGI Uncharacterized protein 
+0_121: A0A8W8KTY2_CRAGI Uncharacterized protein 
+0_122: A0A8W8KTY7_CRAGI Uncharacterized protein 
+0_123: A0A8W8KTZ2_CRAGI Uncharacterized protein 
+0_124: A0A8W8KTZ7_CRAGI Uncharacterized protein 
+0_125: A0A8W8KU68_CRAGI Homeobox domain-containing protein 
+0_126: A0A8W8KUA3_CRAGI Homeobox domain-containing protein 
+0_127: A0A8W8KUY9_CRAGI Homeobox domain-containing protein 
+0_128: A0A8W8KV41_CRAGI Homeobox domain-containing protein 
+0_129: A0A8W8KVY4_CRAGI Uncharacterized protein 
+0_130: A0A8W8KVY9_CRAGI Uncharacterized protein 
+0_131: A0A8W8KVZ3_CRAGI Uncharacterized protein 
+0_132: A0A8W8KWH2_CRAGI Uncharacterized protein 
+0_133: A0A8W8KWH7_CRAGI Uncharacterized protein 
+0_134: A0A8W8KWI1_CRAGI Uncharacterized protein 
+0_135: A0A8W8KX13_CRAGI Homeobox domain-containing protein 
+0_136: A0A8W8KX18_CRAGI Homeobox domain-containing protein 
+0_137: A0A8W8KX35_CRAGI Homeobox domain-containing protein 
+0_138: A0A8W8KZH0_CRAGI Uncharacterized protein 
+0_139: A0A8W8KZM6_CRAGI Uncharacterized protein 
+0_140: A0A8W8KZN0_CRAGI Uncharacterized protein 
+0_141: A0A8W8KZN5_CRAGI Uncharacterized protein 
+0_142: A0A8W8KZP0_CRAGI Uncharacterized protein 
+0_143: A0A8W8KZY7_CRAGI Uncharacterized protein 
+0_144: A0A8W8L000_CRAGI Homeobox domain-containing protein 
+0_145: A0A8W8L0Q8_CRAGI Homeobox domain-containing protein 
+0_146: A0A8W8L0R3_CRAGI Homeobox domain-containing protein 
+0_147: A0A8W8L1U9_CRAGI Homeobox domain-containing protein 
+0_148: A0A8W8L259_CRAGI Homeobox domain-containing protein 
+0_149: A0A8W8L3M1_CRAGI Uncharacterized protein 
+0_150: A0A8W8L446_CRAGI Homeobox domain-containing protein 
+0_151: A0A8W8L493_CRAGI Uncharacterized protein 
+0_152: A0A8W8L5E0_CRAGI Uncharacterized protein 
+0_153: A0A8W8L5S3_CRAGI Homeobox domain-containing protein 
+0_154: A0A8W8L5Z7_CRAGI Uncharacterized protein 
+0_155: A0A8W8L9F6_CRAGI Uncharacterized protein 
+0_156: A0A8W8L9G2_CRAGI Uncharacterized protein 
+0_157: A0A8W8L9L9_CRAGI Uncharacterized protein 
+0_158: A0A8W8LA92_CRAGI Uncharacterized protein 
+0_159: A0A8W8LAW3_CRAGI Uncharacterized protein 
+0_160: A0A8W8LAX7_CRAGI Homeobox domain-containing protein 
+0_161: A0A8W8LDK7_CRAGI Uncharacterized protein 
+0_162: A0A8W8LF54_CRAGI Uncharacterized protein 
+0_163: A0A8W8LGC0_CRAGI Uncharacterized protein 
+0_164: A0A8W8LHX8_CRAGI Uncharacterized protein 
+0_165: A0A8W8LJK1_CRAGI Uncharacterized protein 
+0_166: A0A8W8LMC2_CRAGI Uncharacterized protein 
+0_167: A0A8W8LME9_CRAGI Uncharacterized protein 
+0_168: A0A8W8M0S5_CRAGI Homeobox domain-containing protein 
+0_169: A0A8W8M1J7_CRAGI Homeobox domain-containing protein 
+0_170: A0A8W8M2T1_CRAGI Uncharacterized protein 
+0_171: A0A8W8M3U2_CRAGI Homeobox domain-containing protein 
+0_172: A0A8W8MC14_CRAGI POU domain protein 
+0_173: A0A8W8MC90_CRAGI Uncharacterized protein 
+0_174: A0A8W8MDE7_CRAGI One cut domain family member 
+0_175: A0A8W8MEZ4_CRAGI One cut domain family member 
+0_176: A0A8W8MNZ0_CRAGI Uncharacterized protein 
+0_177: A0A8W8MTT0_CRAGI Homeobox domain-containing protein 
+0_178: A0A8W8MTT5_CRAGI Homeobox domain-containing protein 
+0_179: A0A8W8MTV1_CRAGI Homeobox domain-containing protein 
+0_180: A0A8W8MTX2_CRAGI Homeobox domain-containing protein 
+0_181: A0A8W8MTY9_CRAGI Homeobox domain-containing protein 
+0_182: A0A8W8MTZ3_CRAGI Homeobox domain-containing protein 
+0_183: A0A8W8MUJ5_CRAGI Uncharacterized protein 
+0_184: A0A8W8MW41_CRAGI Homeobox domain-containing protein 
+0_185: A0A8W8MXX7_CRAGI Homeobox domain-containing protein 
+0_186: A0A8W8MYI0_CRAGI Homeobox domain-containing protein 
+0_187: A0A8W8MYN2_CRAGI Homeobox domain-containing protein 
+0_188: A0A8W8MYN7_CRAGI Homeobox domain-containing protein 
+0_189: A0A8W8MYP1_CRAGI Homeobox domain-containing protein 
+0_190: A0A8W8MYP5_CRAGI Homeobox domain-containing protein 
+0_191: A0A8W8MYT7_CRAGI Homeobox domain-containing protein 
+0_192: A0A8W8N0Z8_CRAGI Homeobox domain-containing protein 
+0_193: A0A8W8N110_CRAGI Homeobox domain-containing protein 
+0_194: A0A8W8N115_CRAGI Homeobox domain-containing protein 
+0_195: A0A8W8N1H0_CRAGI Homeobox domain-containing protein 
+0_196: A0A8W8N1I9_CRAGI Homeobox domain-containing protein 
+0_197: A0A8W8N1K7_CRAGI Homeobox domain-containing protein 
+0_198: A0A8W8N1L2_CRAGI Homeobox domain-containing protein 
+0_199: A0A8W8N1L7_CRAGI Homeobox domain-containing protein 
+0_200: A0A8W8N1M3_CRAGI Homeobox domain-containing protein 
+0_201: A0A8W8N1P2_CRAGI Homeobox domain-containing protein 
+0_202: A0A8W8N345_CRAGI Homeobox domain-containing protein 
+0_203: A0A8W8N4P4_CRAGI Homeobox domain-containing protein 
+0_204: A0A8W8N4R1_CRAGI Homeobox domain-containing protein 
+0_205: A0A8W8N4S5_CRAGI Homeobox domain-containing protein 
+0_206: A0A8W8N4T0_CRAGI Homeobox domain-containing protein 
+0_207: A0A8W8N4T5_CRAGI Homeobox domain-containing protein 
+0_208: A0A8W8N5P0_CRAGI Uncharacterized protein 
+0_209: A0A8W8N621_CRAGI Homeobox domain-containing protein 
+0_210: A0A8W8N755_CRAGI Homeobox domain-containing protein 
+0_211: A0A8W8N7T4_CRAGI Uncharacterized protein 
+0_212: A0A8W8N8W3_CRAGI Homeobox domain-containing protein 
+0_213: A0A8W8N8Z0_CRAGI Homeobox domain-containing protein 
+0_214: A0A8W8N9G9_CRAGI Homeobox domain-containing protein 
+0_215: A0A8W8NAJ6_CRAGI Homeobox domain-containing protein 
+0_216: A0A8W8NBC0_CRAGI Homeobox domain-containing protein 
+0_217: A0A8W8NC56_CRAGI Homeobox domain-containing protein 
+0_218: A0A8W8NE43_CRAGI Homeobox domain-containing protein 
+0_219: A0A8W8NEB1_CRAGI Homeobox domain-containing protein 
+0_220: A0A8W8NGD8_CRAGI Uncharacterized protein 
+0_221: A0A8W8NHM8_CRAGI Homeobox domain-containing protein 
+0_222: A0A8W8NIK3_CRAGI Homeobox domain-containing protein 
+0_223: A0A8W8NKP9_CRAGI Uncharacterized protein 
+0_224: A0A8W8NKQ5_CRAGI Homeobox domain-containing protein 
+0_225: A0A8W8NKY1_CRAGI Homeobox domain-containing protein 
+0_226: A0A8W8NM07_CRAGI Homeobox domain-containing protein 
+0_227: A0A8W8NNK0_CRAGI Uncharacterized protein 
+0_228: A0A8W8NPX1_CRAGI Homeobox domain-containing protein 
+0_229: K1P313_CRAGI Protein sine oculis 
+0_230: K1P7N7_CRAGI Homeobox protein goosecoid 
+0_231: K1P8V9_CRAGI One cut domain family member 
+0_232: K1P9C1_CRAGI Homeobox domain-containing protein 
+0_233: K1PAC6_CRAGI Homeobox even-skipped-like protein 1 
+0_234: K1PG94_CRAGI Pre-B-cell leukemia transcription factor 4 
+0_235: K1PGT0_CRAGI Homeobox protein ceh-37 
+0_236: K1PGW7_CRAGI Transmembrane protein 2 
+0_237: K1PJ20_CRAGI Homeobox domain-containing protein 
+0_238: K1PJF6_CRAGI Homeobox expressed in ES cells 1 
+0_239: K1PKC2_CRAGI Homeobox protein Meis1 
+0_240: K1PLG8_CRAGI Brain-specific homeobox-like protein 
+0_241: K1PNG1_CRAGI Segmentation polarity homeobox protein engrailed 
+0_242: K1PP90_CRAGI Homeobox domain-containing protein 
+0_243: K1PPR5_CRAGI Homeobox protein ceh-9 
+0_244: K1PQ27_CRAGI Dorsal root ganglia homeobox protein 
+0_245: K1PQK3_CRAGI POU domain protein ZP-23 
+0_246: K1PRV1_CRAGI Homeodomain-only protein 
+0_247: K1PT65_CRAGI Pre-B-cell leukemia transcription factor 4 
+0_248: K1PTP4_CRAGI Dorsal root ganglia homeobox protein 
+0_249: K1PUL6_CRAGI von Willebrand factor A domain-containing protein 5A 
+0_250: K1PV30_CRAGI Homeobox protein 
+0_251: K1PV68_CRAGI POU domain protein 
+0_252: K1PVZ4_CRAGI GS homeobox 2 
+0_253: K1PW35_CRAGI Homeobox protein GBX-1 
+0_254: K1PYG5_CRAGI Homeotic protein distal-less 
+0_255: K1PYP9_CRAGI Homeobox expressed in ES cells 1 
+0_256: K1PZI6_CRAGI Homeobox domain-containing protein 
+0_257: K1PZT1_CRAGI LIM/homeobox protein Lhx9 
+0_258: K1Q0E3_CRAGI Homeobox protein DBX1-A 
+0_259: K1Q0K0_CRAGI Slowpoke-binding protein 
+0_260: K1Q149_CRAGI Homeobox protein rough 
+0_261: K1Q1H4_CRAGI Homeobox protein MOX-2 
+0_262: K1Q1J3_CRAGI Homeobox protein PKNOX2 
+0_263: K1Q3T5_CRAGI Homeobox protein aristaless 
+0_264: K1Q4X5_CRAGI Iroquois-class homeodomain protein IRX-6 
+0_265: K1Q583_CRAGI Dorsal root ganglia homeobox protein 
+0_266: K1Q654_CRAGI Homeobox protein HMX1 
+0_267: K1Q8M9_CRAGI Homeobox protein ARX 
+0_268: K1Q9D5_CRAGI Zinc finger homeobox protein 3 
+0_269: K1QA73_CRAGI Homeobox protein XHOX-3 
+0_270: K1QAT6_CRAGI POU domain protein 
+0_271: K1QC82_CRAGI Aristaless-related homeobox protein 
+0_272: K1QCD5_CRAGI Paired box protein Pax-6 
+0_273: K1QCD7_CRAGI Homeobox domain-containing protein 
+0_274: K1QCU1_CRAGI Homeobox protein Nkx-2.2a 
+0_275: K1QCX7_CRAGI Uncharacterized protein C3orf32 
+0_276: K1QDG5_CRAGI Homeobox protein TGIF2LX 
+0_277: K1QEL4_CRAGI Putative homeodomain transcription factor 
+0_278: K1QEU8_CRAGI Homeobox protein Hox-C11 
+0_279: K1QFQ0_CRAGI Homeobox protein Hox-A2 
+0_280: K1QFQ3_CRAGI Homeobox protein Hox-B4a 
+0_281: K1QG81_CRAGI Aristaless-related homeobox protein 
+0_282: K1QGS5_CRAGI BarH-like 1 homeobox protein (Fragment) 
+0_283: K1QIJ6_CRAGI Homeobox protein TGIF2 
+0_284: K1QIR0_CRAGI Iroquois-class homeodomain protein IRX-6 
+0_285: K1QJ01_CRAGI Brain-specific homeobox protein 
+0_286: K1QKW3_CRAGI Homeobox protein GHOX-7 
+0_287: K1QLB4_CRAGI Uncharacterized protein 
+0_288: K1QLM4_CRAGI Neuronal acetylcholine receptor subunit beta-3 
+0_289: K1QLY6_CRAGI Homeobox protein Nkx-2.6 
+0_290: K1QM31_CRAGI Homeobox protein slou 
+0_291: K1QNR4_CRAGI Homeobox protein HOX3 
+0_292: K1QNR8_CRAGI Uncharacterized protein 
+0_293: K1QPR6_CRAGI Homeobox protein XHOX-7.1 
+0_294: K1QS55_CRAGI Homeobox protein HMX3-B 
+0_295: K1QSB6_CRAGI Homeobox protein homothorax 
+0_296: K1QTQ2_CRAGI Retinal homeobox protein Rx 
+0_297: K1QUB8_CRAGI Homeobox domain-containing protein 
+0_298: K1QUT3_CRAGI Homeobox protein Hox-A1 
+0_299: K1QV43_CRAGI T-cell leukemia homeobox protein 3 
+0_300: K1QV62_CRAGI Zinc finger homeobox protein 4 
+0_301: K1QVP2_CRAGI Retinal homeobox protein Rx2 
+0_302: K1QW78_CRAGI Homeobox protein LOX2 
+0_303: K1QXA8_CRAGI Homeobox protein CDX-1 
+0_304: K1QXF3_CRAGI Homeobox protein orthopedia 
+0_305: K1QXI0_CRAGI Homeobox protein cut-like 
+0_306: K1QXJ5_CRAGI Uncharacterized protein 
+0_307: K1QYJ1_CRAGI Deleted in malignant brain tumors 1 protein 
+0_308: K1QZ17_CRAGI Homeobox protein HD1 
+0_309: K1QZD9_CRAGI Ladybird homeobox corepressor 1-like protein 
+0_310: K1R014_CRAGI LIM homeobox transcription factor 1-beta 
+0_311: K1R041_CRAGI Homeobox protein Nkx-3.2 
+0_312: K1R0H9_CRAGI Homeobox domain-containing protein 
+0_313: K1R2K0_CRAGI BarH-like 2 homeobox protein 
+0_314: K1R2U9_CRAGI Homeobox protein otx5-B 
+0_315: K1R5Y2_CRAGI Homeobox domain-containing protein 
+0_316: K1R684_CRAGI Paired mesoderm homeobox protein 2 
+0_317: K1R6B6_CRAGI Ladybird homeobox corepressor 1-like protein 
+0_318: K1R6C9_CRAGI LIM homeobox transcription factor 1-beta 
+0_319: K1R6F2_CRAGI Homeodomain-interacting protein kinase 2 
+0_320: K1R770_CRAGI Hematopoietically-expressed homeobox protein hhex 
+0_321: K1R7U8_CRAGI Pre-B-cell leukemia transcription factor 4 
+0_322: K1R7X3_CRAGI Short stature homeobox protein 
+0_323: K1R911_CRAGI Homeobox protein HD1 
+0_324: K1R9Y4_CRAGI Uncharacterized protein 
+0_325: K1RA01_CRAGI Homeobox protein caupolican 
+0_326: K1RAG1_CRAGI Pre-B-cell leukemia transcription factor 4 
+0_327: K1RAP6_CRAGI T-cell leukemia homeobox protein 3 
+0_328: K1RC49_CRAGI Motor neuron and pancreas homeobox protein 1 
+0_329: K1RD84_CRAGI Homeobox protein prospero 
+0_330: K1RDK0_CRAGI Zinc finger E-box-binding homeobox 2 
+0_331: K1RE41_CRAGI LIM/homeobox protein Lhx3 
+0_332: K1REB3_CRAGI Zinc finger E-box-binding homeobox 2 
+0_333: K1REH4_CRAGI LIM/homeobox protein Lhx5 
+0_334: K1RFS1_CRAGI WD repeat-containing protein 68 
+0_335: K1RHX0_CRAGI Homeobox protein Hox-B7 
+0_336: K1RII0_CRAGI LIM/homeobox protein Awh 
+0_337: K1RIX6_CRAGI Homeobox protein araucan 
+0_338: K1RJL2_CRAGI Paired box protein Pax-7 
+0_339: K1RK86_CRAGI LIM/homeobox protein Lhx3 
+0_340: K1RMM1_CRAGI Homeobox domain-containing protein 
+0_341: K1RMV0_CRAGI POU domain protein 
+0_342: K1RRF9_CRAGI Homeobox protein extradenticle 
+0_343: K1RSM0_CRAGI H2.0-like homeobox protein 
+0_344: K1RU62_CRAGI LIM/homeobox protein Awh 
+0_345: K1RXD0_CRAGI Homeobox domain-containing protein 
+0_346: K1RXD5_CRAGI Homeobox protein EMX1 
+0_347: K1RYX0_CRAGI DNA-binding protein SATB2 
+0_348: K1RZS7_CRAGI Homeobox protein SIX4 
+0_349: K1S2R0_CRAGI Uncharacterized protein 
+0_350: Q692U3_CRAGI Homeobox protein sine oculis six 1/2 (Fragment) 
+0_351: Q86LP4_CRAGI Paired-type homeodomain-containing protein (Fragment) 
+1_0: A1XC54_CAPTE Transcription factor Pax3/7 
+1_1: A6XFC4_CAPTE Even-skipped 
+1_2: B6RFX8_CAPTE Lox5 hox protein 
+1_3: C4MLF3_CAPTE Lbx homeodomain protein 
+1_4: I2CHN6_CAPTE Even-skipped 1 
+1_5: I2CHN7_CAPTE Even-skipped 2 
+1_6: N1PB35_CAPTE Homeobox domain-containing protein 
+1_7: Q2FBI9_CAPTE Xlox protein 
+1_8: Q4JEV7_CAPTE Homeobox protein engrailed-like 
+1_9: R7T4R6_CAPTE Homeobox domain-containing protein 
+1_10: R7T5K2_CAPTE Homeobox protein engrailed-like 
+1_11: R7T5Y1_CAPTE Homeobox domain-containing protein 
+1_12: R7T846_CAPTE Homeobox domain-containing protein 
+1_13: R7T8B4_CAPTE Homeobox domain-containing protein 
+1_14: R7T959_CAPTE Homeobox domain-containing protein 
+1_15: R7TBS9_CAPTE Homeobox domain-containing protein 
+1_16: R7TC57_CAPTE Homeobox domain-containing protein 
+1_17: R7TCH7_CAPTE Homeobox domain-containing protein 
+1_18: R7TDR5_CAPTE Homeobox domain-containing protein 
+1_19: R7TEF8_CAPTE Homeobox domain-containing protein 
+1_20: R7TEX1_CAPTE POU domain protein 
+1_21: R7TFZ7_CAPTE Insulin gene enhancer protein isl-1 
+1_22: R7TGN1_CAPTE Homeobox domain-containing protein (Fragment) 
+1_23: R7TI74_CAPTE Homeobox domain-containing protein 
+1_24: R7TJG0_CAPTE Homeobox domain-containing protein (Fragment) 
+1_25: R7TJR3_CAPTE Homeobox domain-containing protein 
+1_26: R7TK28_CAPTE Sex combs reduced hox protein 
+1_27: R7TKD0_CAPTE Transcription factor Pax3/7 (Fragment) 
+1_28: R7TLA4_CAPTE Deformed hox protein 
+1_29: R7TN25_CAPTE Homeobox domain-containing protein 
+1_30: R7TNC9_CAPTE Homeobox domain-containing protein 
+1_31: R7TPR7_CAPTE Homeobox domain-containing protein 
+1_32: R7TPZ8_CAPTE LIM homeobox transcription factor 1-beta 
+1_33: R7TQ32_CAPTE Homeobox domain-containing protein 
+1_34: R7TQQ6_CAPTE POU domain protein 
+1_35: R7TSQ2_CAPTE Homeobox domain-containing protein (Fragment) 
+1_36: R7TTU8_CAPTE Apterous 
+1_37: R7TU37_CAPTE Homeobox domain-containing protein 
+1_38: R7TUB2_CAPTE Homeobox protein 
+1_39: R7TUR1_CAPTE Homeobox domain-containing protein 
+1_40: R7TVE3_CAPTE Homeobox domain-containing protein 
+1_41: R7U019_CAPTE Homeobox domain-containing protein 
+1_42: R7U1J4_CAPTE Homeobox domain-containing protein 
+1_43: R7U4M8_CAPTE Xlox protein 
+1_44: R7U8T2_CAPTE Homeobox domain-containing protein 
+1_45: R7U8W4_CAPTE Homeobox domain-containing protein 
+1_46: R7UAG0_CAPTE LIM/homeobox protein Lhx1 
+1_47: R7UAJ4_CAPTE Homeobox domain-containing protein 
+1_48: R7UC57_CAPTE Homeobox domain-containing protein 
+1_49: R7UCX5_CAPTE Homeobox domain-containing protein (Fragment) 
+1_50: R7UDP9_CAPTE Homeobox domain-containing protein 
+1_51: R7UF19_CAPTE Homeobox domain-containing protein 
+1_52: R7UF46_CAPTE LIM/homeobox protein Lhx3 
+1_53: R7UK02_CAPTE POU domain protein (Fragment) 
+1_54: R7UMJ1_CAPTE Homeobox domain-containing protein 
+1_55: R7UN27_CAPTE Homeobox domain-containing protein 
+1_56: R7UP44_CAPTE Homeobox domain-containing protein 
+1_57: R7UP51_CAPTE Homeobox domain-containing protein 
+1_58: R7UPQ3_CAPTE Homeobox domain-containing protein 
+1_59: R7UQU2_CAPTE Homeobox domain-containing protein (Fragment) 
+1_60: R7UTJ6_CAPTE POU domain protein 
+1_61: R7UVH4_CAPTE Homeobox domain-containing protein (Fragment) 
+1_62: R7UVI0_CAPTE Homeobox domain-containing protein (Fragment) 
+1_63: R7UWA1_CAPTE Homeobox protein CHX10 
+1_64: R7UWG7_CAPTE Homeobox domain-containing protein 
+1_65: R7UZM9_CAPTE Homeobox domain-containing protein 
+1_66: R7V8E6_CAPTE Homeobox domain-containing protein (Fragment) 
+1_67: R7V8P0_CAPTE Homeobox domain-containing protein (Fragment) 
+1_68: R7V9E7_CAPTE Homeobox domain-containing protein 
+1_69: R7VB52_CAPTE Homeobox domain-containing protein 
+1_70: R7VCA4_CAPTE POU domain protein 
+1_71: R7VCX8_CAPTE Homeobox domain-containing protein 
+1_72: R7VEW7_CAPTE Homeobox domain-containing protein 
+1_73: R7VF41_CAPTE Homeobox domain-containing protein 
+1_74: R7VHM4_CAPTE Homeobox domain-containing protein 
+1_75: R7VKC4_CAPTE Homeobox domain-containing protein 
+1_76: R7VKC5_CAPTE Six-type transcription factor 1/2 
+1_77: R7VL20_CAPTE Homeobox domain-containing protein 
+1_78: X1ZZA7_CAPTE Zinc finger homeobox protein 4 
+1_79: X2A7W3_CAPTE Homeobox domain-containing protein 
+1_80: B6RFX3_CAPTE Labial hox protein 
+1_81: B6RFX4_CAPTE Proboscipedia hox protein (Fragment) 
+1_82: B6RFX5_CAPTE Hox3 protein 
+1_83: B6RFX6_CAPTE Deformed hox protein 
+1_84: B6RFX7_CAPTE Sex combs reduced hox protein 
+1_85: B6RFX9_CAPTE Lox4 hox protein 
+1_86: B6RFY0_CAPTE Lox2 hox protein 
+1_87: B6RFY1_CAPTE Post2 hox protein 
+1_88: B6RFY2_CAPTE Post1 hox protein 
+1_89: B6RFY3_CAPTE Antennapedia hox protein 
+1_90: C4MJ53_CAPTE NK-like homeobox protein 1a (Fragment) 
+1_91: C4MK36_CAPTE NK-like homeobox protein 2.1a (Fragment) 
+1_92: C4MK37_CAPTE NK-like homeobox protein 2.1b 
+1_93: C4MK38_CAPTE NK-like homeobox protein 2.2a (Fragment) 
+1_94: C4MK39_CAPTE NK-like homeobox protein 2.2b 
+1_95: C4MK40_CAPTE NK-like homeobox protein 4a (Fragment) 
+1_96: C4MK41_CAPTE NK-like homeobox protein 4b 
+1_97: C4MK42_CAPTE Homeodomain protein Tlx 
+1_98: C4MK43_CAPTE NK-like homeobox protein 5 
+1_99: C4MLE9_CAPTE NK-like homeobox protein 6 (Fragment) 
+1_100: C4MLF0_CAPTE NK-like homeobox protein 1b 
+1_101: C4MLF1_CAPTE NK-like homeobox protein 3 
+1_102: C4MLF2_CAPTE NK-like homeobox protein 7 
+1_103: C4MQZ9_CAPTE NK-like homeobox protein 5b (Fragment) 
+1_104: F9W2V7_CAPTE Six-type transcription factor 1/2 (Fragment) 
+1_105: Q09VU4_CAPTE EBX transcription factor 
+1_106: Q2FA45_CAPTE Gsx (Fragment) 
+1_107: Q2FBJ0_CAPTE Caudal protein 
+1_108: R7T3T5_CAPTE Homeobox domain-containing protein 
+1_109: R7T4E3_CAPTE NK-like homeobox protein 1a (Fragment) 
+1_110: R7T7G9_CAPTE Homeobox domain-containing protein 
+1_111: R7T8A8_CAPTE Homeobox domain-containing protein (Fragment) 
+1_112: R7T8C3_CAPTE NK-like homeobox protein 1b (Fragment) 
+1_113: R7T989_CAPTE Homeobox domain-containing protein (Fragment) 
+1_114: R7TBA9_CAPTE Gsx 
+1_115: R7TCH5_CAPTE NK-like homeobox protein 7 (Fragment) 
+1_116: R7TD58_CAPTE Homeodomain protein Tlx 
+1_117: R7TD78_CAPTE Homeobox domain-containing protein (Fragment) 
+1_118: R7TDR8_CAPTE Homeobox domain-containing protein 
+1_119: R7TDU3_CAPTE Hox3 protein 
+1_120: R7TDU7_CAPTE Lox4 hox protein (Fragment) 
+1_121: R7TFH5_CAPTE Homeobox domain-containing protein (Fragment) 
+1_122: R7TFU7_CAPTE Homeobox domain-containing protein 
+1_123: R7TGD7_CAPTE Homeobox domain-containing protein 
+1_124: R7TGS1_CAPTE Homeobox domain-containing protein (Fragment) 
+1_125: R7TJ46_CAPTE Homeobox domain-containing protein (Fragment) 
+1_126: R7TJF1_CAPTE EBX transcription factor 
+1_127: R7TK21_CAPTE Proboscipedia hox protein (Fragment) 
+1_128: R7TK36_CAPTE Homeobox domain-containing protein (Fragment) 
+1_129: R7TKJ1_CAPTE Homeobox domain-containing protein 
+1_130: R7TL21_CAPTE Homeobox domain-containing protein (Fragment) 
+1_131: R7TLA0_CAPTE Labial hox protein 
+1_132: R7TQE4_CAPTE Homeobox domain-containing protein (Fragment) 
+1_133: R7TQQ8_CAPTE Homeobox domain-containing protein (Fragment) 
+1_134: R7TRL6_CAPTE Homeobox domain-containing protein (Fragment) 
+1_135: R7TS59_CAPTE Homeobox domain-containing protein (Fragment) 
+1_136: R7TT53_CAPTE Homeobox domain-containing protein 
+1_137: R7TT64_CAPTE Homeobox domain-containing protein 
+1_138: R7TTE4_CAPTE ULD domain-containing protein 
+1_139: R7TTR6_CAPTE NK-like homeobox protein 4b 
+1_140: R7TTZ4_CAPTE NK-like homeobox protein 3 (Fragment) 
+1_141: R7TWZ6_CAPTE Homeobox domain-containing protein (Fragment) 
+1_142: R7TXI6_CAPTE Caudal protein 
+1_143: R7TY93_CAPTE NK-like homeobox protein 2.1b (Fragment) 
+1_144: R7TZ27_CAPTE NK-like homeobox protein 2.1a 
+1_145: R7TZ85_CAPTE Homeobox domain-containing protein (Fragment) 
+1_146: R7U050_CAPTE LIM/homeobox protein Lhx9 (Fragment) 
+1_147: R7U2A3_CAPTE Uncharacterized protein 
+1_148: R7U2Q3_CAPTE Homeobox domain-containing protein (Fragment) 
+1_149: R7U2V6_CAPTE Homeobox domain-containing protein (Fragment) 
+1_150: R7U2X7_CAPTE Homeobox domain-containing protein 
+1_151: R7U4H6_CAPTE Homeobox domain-containing protein (Fragment) 
+1_152: R7U6M3_CAPTE Homeobox domain-containing protein (Fragment) 
+1_153: R7U7Y9_CAPTE Homeobox domain-containing protein 
+1_154: R7U9H9_CAPTE Homeobox domain-containing protein (Fragment) 
+1_155: R7UAD2_CAPTE Homeobox domain-containing protein (Fragment) 
+1_156: R7UAD6_CAPTE Homeobox domain-containing protein (Fragment) 
+1_157: R7UAI4_CAPTE Post1 hox protein (Fragment) 
+1_158: R7UAK3_CAPTE LIM/homeobox protein Awh 
+1_159: R7UAU5_CAPTE Homeobox domain-containing protein (Fragment) 
+1_160: R7UC46_CAPTE Paired mesoderm homeobox protein 2 
+1_161: R7UDF2_CAPTE NK-like homeobox protein 5 (Fragment) 
+1_162: R7UG11_CAPTE Homeobox domain-containing protein (Fragment) 
+1_163: R7UGR6_CAPTE Homeobox domain-containing protein (Fragment) 
+1_164: R7UJW8_CAPTE Even-skipped (Fragment) 
+1_165: R7UKD7_CAPTE Homeobox domain-containing protein (Fragment) 
+1_166: R7ULI7_CAPTE NK-like homeobox protein 5b (Fragment) 
+1_167: R7ULV8_CAPTE NK-like homeobox protein 2.2a 
+1_168: R7UM68_CAPTE Post2 hox protein (Fragment) 
+1_169: R7UN25_CAPTE Homeobox domain-containing protein (Fragment) 
+1_170: R7UN60_CAPTE Visual system homeobox 1 (Fragment) 
+1_171: R7UNJ2_CAPTE Homeobox domain-containing protein (Fragment) 
+1_172: R7UP28_CAPTE Homeobox domain-containing protein (Fragment) 
+1_173: R7UQR4_CAPTE Homeobox domain-containing protein (Fragment) 
+1_174: R7UUB9_CAPTE Homeobox domain-containing protein 
+1_175: R7UUL8_CAPTE Homeobox domain-containing protein (Fragment) 
+1_176: R7UX02_CAPTE Homeobox domain-containing protein (Fragment) 
+1_177: R7UX36_CAPTE Homeobox domain-containing protein (Fragment) 
+1_178: R7V0E8_CAPTE Homeobox domain-containing protein 
+1_179: R7V0S4_CAPTE Homeobox domain-containing protein (Fragment) 
+1_180: R7V240_CAPTE Homeobox domain-containing protein 
+1_181: R7VCI3_CAPTE Prospero 
+1_182: R7VFF9_CAPTE Homeobox domain-containing protein (Fragment) 
+1_183: R7VHW9_CAPTE Homeobox domain-containing protein 
+1_184: R7VJ71_CAPTE One cut domain family member (Fragment) 
+1_185: R7VJE5_CAPTE Homeobox domain-containing protein (Fragment) 
+1_186: R7VKF2_CAPTE Homeobox domain-containing protein 
+1_187: R7VLA1_CAPTE Homeobox domain-containing protein (Fragment) 
+1_188: R7VLQ3_CAPTE Homeobox domain-containing protein (Fragment) 
+2_0: A0A0B6VH93_LOTGI Lmx1 LIM homeobox protein (Fragment) 
+2_1: A0A0B6VI79_LOTGI Lhx1/5 LIM homeobox protein (Fragment) 
+2_2: A0A0B6VJK7_LOTGI Pituitary homeobox 2 protein (Fragment) 
+2_3: A0A0B6VJL1_LOTGI Paired box 6 protein (Fragment) 
+2_4: A0A0B6VJM6_LOTGI Lhx3/4 LIM homeobox protein (Fragment) 
+2_5: A0A0B6VNG0_LOTGI Retinal homeobox protein (Fragment) 
+2_6: A0A0B6VNG5_LOTGI Paired box 3/7 protein (Fragment) 
+2_7: V3YX15_LOTGI Homeobox domain-containing protein (Fragment) 
+2_8: V3YXS2_LOTGI C2H2-type domain-containing protein (Fragment) 
+2_9: V3Z3J0_LOTGI Homeobox domain-containing protein 
+2_10: V3Z534_LOTGI Homeobox protein 
+2_11: V3ZB50_LOTGI Homeobox domain-containing protein 
+2_12: V3ZEA7_LOTGI Homeobox domain-containing protein (Fragment) 
+2_13: V3ZFW3_LOTGI Homeobox domain-containing protein (Fragment) 
+2_14: V3ZLP8_LOTGI Homeobox domain-containing protein (Fragment) 
+2_15: V3ZQV3_LOTGI Uncharacterized protein (Fragment) 
+2_16: V3ZRS6_LOTGI Visual system homeobox 2 
+2_17: V3ZS59_LOTGI Homeobox domain-containing protein (Fragment) 
+2_18: V3ZSX3_LOTGI Insulin gene enhancer protein isl-1 
+2_19: V3ZUB0_LOTGI Homeobox domain-containing protein 
+2_20: V3ZY21_LOTGI POU domain protein (Fragment) 
+2_21: V3ZYQ4_LOTGI Homeobox domain-containing protein 
+2_22: V3ZZC7_LOTGI LIM/homeobox protein Awh 
+2_23: V3ZZF5_LOTGI Homeobox domain-containing protein 
+2_24: V4A2J2_LOTGI Homeobox domain-containing protein 
+2_25: V4A346_LOTGI Homeobox domain-containing protein 
+2_26: V4A376_LOTGI Homeobox domain-containing protein 
+2_27: V4A794_LOTGI Homeobox domain-containing protein 
+2_28: V4A7Q4_LOTGI Homeobox domain-containing protein 
+2_29: V4A848_LOTGI Homeobox domain-containing protein 
+2_30: V4A9C6_LOTGI Homeobox domain-containing protein 
+2_31: V4ABE0_LOTGI Visual system homeobox 2 
+2_32: V4ACH7_LOTGI Homeobox domain-containing protein 
+2_33: V4ACI6_LOTGI Homeobox domain-containing protein (Fragment) 
+2_34: V4AD50_LOTGI Homeobox domain-containing protein (Fragment) 
+2_35: V4AF73_LOTGI Homeobox domain-containing protein (Fragment) 
+2_36: V4AG18_LOTGI Homeobox domain-containing protein (Fragment) 
+2_37: V4AG74_LOTGI Homeobox domain-containing protein (Fragment) 
+2_38: V4AHM7_LOTGI Homeobox domain-containing protein 
+2_39: V4AJI3_LOTGI POU domain protein (Fragment) 
+2_40: V4ALC7_LOTGI Short stature homeobox 
+2_41: V4ALT1_LOTGI Homeobox domain-containing protein 
+2_42: V4APN7_LOTGI Homeobox domain-containing protein 
+2_43: V4AQ16_LOTGI Homeobox domain-containing protein 
+2_44: V4B058_LOTGI Homeobox domain-containing protein 
+2_45: V4B0Q5_LOTGI TLC domain-containing protein 
+2_46: V4B2G8_LOTGI Homeobox domain-containing protein 
+2_47: V4B3K2_LOTGI Homeobox domain-containing protein 
+2_48: V4B622_LOTGI Homeobox domain-containing protein (Fragment) 
+2_49: V4B9I8_LOTGI Homeobox domain-containing protein 
+2_50: V4BAL6_LOTGI Homeobox domain-containing protein (Fragment) 
+2_51: V4BBQ6_LOTGI Homeobox domain-containing protein (Fragment) 
+2_52: V4BFH7_LOTGI Zinc finger protein 1 
+2_53: V4BGE9_LOTGI LIM/homeobox protein Lhx9 
+2_54: V4BHE9_LOTGI POU domain protein 
+2_55: V4BKP8_LOTGI Homeobox domain-containing protein 
+2_56: V4BLD9_LOTGI POU domain protein 
+2_57: V4C954_LOTGI Homeobox domain-containing protein 
+2_58: V4CF21_LOTGI Homeobox domain-containing protein 
+2_59: V4CHA2_LOTGI LIM/homeobox protein Lhx5 (Fragment) 
+2_60: V4CJP9_LOTGI One cut domain family member 
+2_61: A0A0B6VH87_LOTGI Goosecoid protein (Fragment) 
+2_62: A0A0B6VH88_LOTGI Orthodenticle homeobox protein (Fragment) 
+2_63: A0A0B6VI59_LOTGI Unc-4.1 homeobox protein (Fragment) 
+2_64: A0A0B6VI83_LOTGI Islet LIM homeobox protein (Fragment) 
+2_65: A0A0B6VLJ9_LOTGI Orthopedia homeobox protein (Fragment) 
+2_66: A0A0B6VLK3_LOTGI Diencephalon/mesencephalon homeobox 1 protein (Fragment) 
+2_67: A0A0B6VLM4_LOTGI Lhx2/9 LIM homeobox protein (Fragment) 
+2_68: A0A0B6VNI7_LOTGI Lhx6/8 LIM homeobox protein (Fragment) 
+2_69: B6SD85_LOTGI Paired superclass homeobox transcription factor Pitx (Fragment) 
+2_70: V3YX65_LOTGI Homeobox domain-containing protein 
+2_71: V3YXA5_LOTGI Homeobox domain-containing protein (Fragment) 
+2_72: V3YXF0_LOTGI Homeobox domain-containing protein 
+2_73: V3Z594_LOTGI Homeobox domain-containing protein (Fragment) 
+2_74: V3Z5W5_LOTGI Homeobox domain-containing protein 
+2_75: V3Z6R3_LOTGI Homeobox domain-containing protein 
+2_76: V3Z9S3_LOTGI Homeobox domain-containing protein (Fragment) 
+2_77: V3ZF17_LOTGI Homeobox domain-containing protein (Fragment) 
+2_78: V3ZI41_LOTGI Homeobox domain-containing protein (Fragment) 
+2_79: V3ZJY3_LOTGI Homeobox domain-containing protein 
+2_80: V3ZL15_LOTGI Homeobox domain-containing protein (Fragment) 
+2_81: V3ZL81_LOTGI Homeobox domain-containing protein (Fragment) 
+2_82: V3ZMY7_LOTGI Homeobox domain-containing protein (Fragment) 
+2_83: V3ZPC7_LOTGI Homeobox domain-containing protein (Fragment) 
+2_84: V3ZPD1_LOTGI Homeobox domain-containing protein (Fragment) 
+2_85: V3ZQ03_LOTGI Homeobox domain-containing protein (Fragment) 
+2_86: V3ZRN3_LOTGI Homeobox domain-containing protein (Fragment) 
+2_87: V3ZS89_LOTGI Homeobox domain-containing protein (Fragment) 
+2_88: V3ZS97_LOTGI Homeobox domain-containing protein (Fragment) 
+2_89: V3ZSK0_LOTGI Homeobox domain-containing protein (Fragment) 
+2_90: V3ZSX8_LOTGI Homeobox domain-containing protein (Fragment) 
+2_91: V3ZU67_LOTGI Homeobox domain-containing protein 
+2_92: V3ZUI4_LOTGI Homeobox domain-containing protein (Fragment) 
+2_93: V3ZVH8_LOTGI Homeobox domain-containing protein (Fragment) 
+2_94: V3ZVS2_LOTGI Homeobox domain-containing protein (Fragment) 
+2_95: V3ZWA0_LOTGI Homeobox domain-containing protein 
+2_96: V3ZWV3_LOTGI Prospero domain-containing protein 
+2_97: V3ZXQ0_LOTGI Homeobox domain-containing protein (Fragment) 
+2_98: V3ZXV0_LOTGI Homeobox domain-containing protein (Fragment) 
+2_99: V3ZZ31_LOTGI Homeobox domain-containing protein (Fragment) 
+2_100: V4A086_LOTGI Homeobox domain-containing protein (Fragment) 
+2_101: V4A4Z2_LOTGI Homeobox domain-containing protein (Fragment) 
+2_102: V4A810_LOTGI Homeobox domain-containing protein (Fragment) 
+2_103: V4A9G9_LOTGI Homeobox domain-containing protein (Fragment) 
+2_104: V4AA12_LOTGI Homeobox domain-containing protein (Fragment) 
+2_105: V4ACD2_LOTGI Homeobox domain-containing protein 
+2_106: V4ACK5_LOTGI Homeobox domain-containing protein (Fragment) 
+2_107: V4ACL4_LOTGI Homeobox domain-containing protein (Fragment) 
+2_108: V4AEL3_LOTGI Homeobox domain-containing protein 
+2_109: V4AEW6_LOTGI Homeobox domain-containing protein (Fragment) 
+2_110: V4AFX1_LOTGI Homeobox domain-containing protein 
+2_111: V4AG06_LOTGI Homeobox domain-containing protein (Fragment) 
+2_112: V4AG11_LOTGI Homeobox domain-containing protein 
+2_113: V4AG29_LOTGI Homeobox domain-containing protein (Fragment) 
+2_114: V4AG38_LOTGI Homeobox domain-containing protein (Fragment) 
+2_115: V4AH97_LOTGI Homeobox domain-containing protein 
+2_116: V4AHV5_LOTGI Homeobox domain-containing protein (Fragment) 
+2_117: V4AIX4_LOTGI Homeobox domain-containing protein (Fragment) 
+2_118: V4AKN5_LOTGI Homeobox domain-containing protein 
+2_119: V4AKS9_LOTGI LIM/homeobox protein Lhx3 (Fragment) 
+2_120: V4ALV7_LOTGI Homeobox domain-containing protein 
+2_121: V4AMU9_LOTGI Homeobox domain-containing protein (Fragment) 
+2_122: V4AMZ8_LOTGI Uncharacterized protein (Fragment) 
+2_123: V4AQ81_LOTGI Homeobox domain-containing protein (Fragment) 
+2_124: V4ART4_LOTGI Homeobox domain-containing protein (Fragment) 
+2_125: V4ARX4_LOTGI Homeobox domain-containing protein (Fragment) 
+2_126: V4AS00_LOTGI Homeobox domain-containing protein (Fragment) 
+2_127: V4AT90_LOTGI Homeobox domain-containing protein (Fragment) 
+2_128: V4AYB9_LOTGI Homeobox domain-containing protein 
+2_129: V4AZ15_LOTGI Homeobox domain-containing protein (Fragment) 
+2_130: V4AZ19_LOTGI Homeobox domain-containing protein 
+2_131: V4AZ98_LOTGI Homeobox domain-containing protein (Fragment) 
+2_132: V4B1Z7_LOTGI Homeobox domain-containing protein (Fragment) 
+2_133: V4B2N3_LOTGI Homeobox domain-containing protein 
+2_134: V4B459_LOTGI Homeobox domain-containing protein 
+2_135: V4B4D7_LOTGI Homeobox domain-containing protein (Fragment) 
+2_136: V4B5G4_LOTGI Homeobox domain-containing protein (Fragment) 
+2_137: V4B8H7_LOTGI Homeobox domain-containing protein (Fragment) 
+2_138: V4BA79_LOTGI Uncharacterized protein (Fragment) 
+2_139: V4BAI4_LOTGI Homeobox domain-containing protein (Fragment) 
+2_140: V4BAL1_LOTGI Homeobox domain-containing protein (Fragment) 
+2_141: V4BDV5_LOTGI Homeobox domain-containing protein 
+2_142: V4BFC9_LOTGI Homeobox domain-containing protein (Fragment) 
+2_143: V4BGK7_LOTGI Homeobox domain-containing protein (Fragment) 
+2_144: V4BLG5_LOTGI Homeobox domain-containing protein 
+2_145: V4BRR7_LOTGI Homeobox domain-containing protein (Fragment) 
+2_146: V4BUI5_LOTGI Homeobox domain-containing protein (Fragment) 
+2_147: V4BYI6_LOTGI Homeobox domain-containing protein (Fragment) 
+2_148: V4BYW7_LOTGI Homeobox domain-containing protein (Fragment) 
+2_149: V4BZH1_LOTGI Homeobox domain-containing protein (Fragment) 
+2_150: V4C5P1_LOTGI Homeobox domain-containing protein (Fragment) 
+2_151: V4CK27_LOTGI Homeobox domain-containing protein (Fragment) 
+2_152: V4CKM9_LOTGI Homeobox domain-containing protein (Fragment) 
+2_153: V4CL34_LOTGI Homeobox domain-containing protein (Fragment) 
+2_154: V4CL38_LOTGI Homeobox domain-containing protein 
+2_155: V4CL40_LOTGI Homeobox domain-containing protein (Fragment) 
+2_156: V4CQS4_LOTGI Homeobox domain-containing protein (Fragment) 
+3_0: A0A6J7ZWH3_MYTCO Uncharacterized protein 
+3_1: A0A6J7ZWY7_MYTCO Uncharacterized protein 
+3_2: A0A6J8A5C1_MYTCO Homeobox domain-containing protein 
+3_3: A0A6J8A8P8_MYTCO Visual system homeobox 2 
+3_4: A0A6J8A8V3_MYTCO Homeobox domain-containing protein 
+3_5: A0A6J8A9D3_MYTCO Homeobox domain-containing protein 
+3_6: A0A6J8AXM7_MYTCO Uncharacterized protein 
+3_7: A0A6J8AXU6_MYTCO CERS5_6 
+3_8: A0A6J8AYR7_MYTCO Uncharacterized protein 
+3_9: A0A6J8AZP6_MYTCO ATBF1 
+3_10: A0A6J8B0V2_MYTCO Homeobox domain-containing protein 
+3_11: A0A6J8BFY7_MYTCO One cut domain family member 
+3_12: A0A6J8BKA4_MYTCO Homeodomain transcription factor 1,Putative homeodomain transcription factor,Putative homeodomain transcription factor 2 
+3_13: A0A6J8BMA2_MYTCO Homeodomain transcription factor 1,Putative homeodomain transcription factor,Putative homeodomain transcription factor 2 
+3_14: A0A6J8BU55_MYTCO TRAPPC9 
+3_15: A0A6J8BV88_MYTCO One cut domain family member 
+3_16: A0A6J8BVE3_MYTCO TRAPPC9 
+3_17: A0A6J8BWE0_MYTCO TRAPPC9 
+3_18: A0A6J8BX09_MYTCO One cut domain family member 
+3_19: A0A6J8BXE8_MYTCO Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 2 
+3_20: A0A6J8BYI7_MYTCO PAX6 
+3_21: A0A6J8C0L4_MYTCO Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 2 
+3_22: A0A6J8C463_MYTCO Homeobox protein 
+3_23: A0A6J8C766_MYTCO Homeobox domain-containing protein 
+3_24: A0A6J8C7S3_MYTCO PAX3_7 
+3_25: A0A6J8C9I4_MYTCO Homeobox domain-containing protein 
+3_26: A0A6J8CBE3_MYTCO RAX 
+3_27: A0A6J8CIP8_MYTCO Homeobox domain-containing protein 
+3_28: A0A6J8CJ05_MYTCO Homeobox domain-containing protein 
+3_29: A0A6J8CL83_MYTCO Homeobox domain-containing protein 
+3_30: A0A6J8CM12_MYTCO Homeobox domain-containing protein 
+3_31: A0A6J8CNA2_MYTCO SIX1 
+3_32: A0A6J8CQ10_MYTCO Homeobox domain-containing protein 
+3_33: A0A6J8CQJ4_MYTCO POU domain protein 
+3_34: A0A6J8CQL9_MYTCO Homeobox domain-containing protein 
+3_35: A0A6J8CQP8_MYTCO Homeobox domain-containing protein 
+3_36: A0A6J8CRW7_MYTCO Homeobox domain-containing protein 
+3_37: A0A6J8CS02_MYTCO POU domain protein 
+3_38: A0A6J8CSD9_MYTCO PAX6 
+3_39: A0A6J8CYK6_MYTCO Homeobox domain-containing protein 
+3_40: A0A6J8D1S3_MYTCO Homeobox domain-containing protein 
+3_41: A0A6J8D1U5_MYTCO Homeobox domain-containing protein 
+3_42: A0A6J8D2D2_MYTCO Homeobox domain-containing protein 
+3_43: A0A6J8D2E6_MYTCO Homeobox domain-containing protein 
+3_44: A0A6J8D4P7_MYTCO POU domain protein 
+3_45: A0A6J8DEH6_MYTCO Homeobox domain-containing protein 
+3_46: A0A6J8DF14_MYTCO Homeobox domain-containing protein 
+3_47: A0A6J8DHC6_MYTCO Homeobox domain-containing protein 
+3_48: A0A6J8DNQ5_MYTCO One cut domain family member 
+3_49: A0A6J8DUK4_MYTCO LHX1 
+3_50: A0A6J8E6I5_MYTCO Homeobox domain-containing protein 
+3_51: A0A6J8E6J6_MYTCO Homeobox domain-containing protein 
+3_52: A0A6J8EDL3_MYTCO Homeobox domain-containing protein 
+3_53: A0A6J8EMB0_MYTCO POU domain protein 
+3_54: A0A6J8ENY4_MYTCO Homeobox protein cut-like 
+3_55: A0A6J8EQ72_MYTCO Homeobox domain-containing protein 
+3_56: A0A6J8EQX0_MYTCO Homeobox protein cut-like 
+3_57: A0A6J8ERK1_MYTCO Homeobox protein cut-like 
+3_58: A0A6J8ES43_MYTCO DNA-binding protein SATB 
+3_59: A0A6J8EU52_MYTCO Homeobox domain-containing protein 
+3_60: A0A6J7ZYC1_MYTCO RAX 
+3_61: A0A6J8A2P8_MYTCO BARHL 
+3_62: A0A6J8A349_MYTCO Homeobox domain-containing protein 
+3_63: A0A6J8A3M5_MYTCO Homeobox domain-containing protein 
+3_64: A0A6J8A481_MYTCO NKX2-2 
+3_65: A0A6J8A4J2_MYTCO PBX1 
+3_66: A0A6J8A630_MYTCO BARHL 
+3_67: A0A6J8A6S6_MYTCO PHOX2 
+3_68: A0A6J8A6U8_MYTCO Homeobox domain-containing protein 
+3_69: A0A6J8A6Z5_MYTCO NKX3-1 
+3_70: A0A6J8A871_MYTCO NKX3-1 
+3_71: A0A6J8ABZ2_MYTCO MEOX 
+3_72: A0A6J8AC99_MYTCO VSX2 
+3_73: A0A6J8AD85_MYTCO BARHL 
+3_74: A0A6J8AFB3_MYTCO MSX 
+3_75: A0A6J8AHL2_MYTCO LHX2_9 
+3_76: A0A6J8AIC8_MYTCO Homeobox domain-containing protein 
+3_77: A0A6J8AIL5_MYTCO Homeobox domain-containing protein 
+3_78: A0A6J8AIL6_MYTCO Homeobox domain-containing protein 
+3_79: A0A6J8AIP0_MYTCO Homeobox domain-containing protein 
+3_80: A0A6J8AKZ8_MYTCO HOX_3 
+3_81: A0A6J8AMP5_MYTCO Homeobox domain-containing protein 
+3_82: A0A6J8AS36_MYTCO LHX3_4 
+3_83: A0A6J8AT60_MYTCO LMX1 
+3_84: A0A6J8AUN1_MYTCO CDX1_4 
+3_85: A0A6J8AUZ8_MYTCO IPF1 
+3_86: A0A6J8AVM2_MYTCO GSH 
+3_87: A0A6J8AVS3_MYTCO TGIF1 
+3_88: A0A6J8AWI0_MYTCO LMX1 
+3_89: A0A6J8AWT6_MYTCO GSC 
+3_90: A0A6J8AXB1_MYTCO LMX1 
+3_91: A0A6J8AXF0_MYTCO BARHL 
+3_92: A0A6J8AYI9_MYTCO BARHL 
+3_93: A0A6J8AZ87_MYTCO CDX1_4 
+3_94: A0A6J8B0Y3_MYTCO BARHL 
+3_95: A0A6J8B2W8_MYTCO NKX5 
+3_96: A0A6J8B9F8_MYTCO SIX3_6 
+3_97: A0A6J8BAF2_MYTCO Homeobox domain-containing protein 
+3_98: A0A6J8BBK9_MYTCO Homeobox domain-containing protein 
+3_99: A0A6J8BE62_MYTCO Homeobox domain-containing protein 
+3_100: A0A6J8BQG6_MYTCO UNC4 
+3_101: A0A6J8BRJ0_MYTCO Retinal homeobox protein Rx1,Aristaless-related homeobox protein,Homeobox protein ARX 
+3_102: A0A6J8BXD5_MYTCO BARX 
+3_103: A0A6J8C174_MYTCO Homeobox domain-containing protein 
+3_104: A0A6J8C1D3_MYTCO Homeobox domain-containing protein 
+3_105: A0A6J8C2J9_MYTCO LBX 
+3_106: A0A6J8C331_MYTCO Diencephalon/mesencephalon homeobox protein 1-B,Diencephalon/mesencephalon homeobox protein 1-A,Diencephalon/mesencephalon homeobox protein 1 
+3_107: A0A6J8C5Y5_MYTCO Brain-specific homeobox protein,Brain-specific homeobox protein homolog 
+3_108: A0A6J8C6X8_MYTCO Homeobox domain-containing protein 
+3_109: A0A6J8C7H5_MYTCO HLX1 
+3_110: A0A6J8C8D1_MYTCO HOX_3 
+3_111: A0A6J8C8S9_MYTCO HOX_3 
+3_112: A0A6J8CA61_MYTCO GBX 
+3_113: A0A6J8CAG2_MYTCO Homeobox protein DBX1-A,Homeobox protein DBX2,Homeobox protein DBX1-B,Homeobox protein DBX1 
+3_114: A0A6J8CAU0_MYTCO Homeobox domain-containing protein 
+3_115: A0A6J8CAW8_MYTCO Homeobox domain-containing protein 
+3_116: A0A6J8CB01_MYTCO Homeobox domain-containing protein 
+3_117: A0A6J8CGL6_MYTCO Homeobox domain-containing protein 
+3_118: A0A6J8CHV7_MYTCO Homeobox domain-containing protein 
+3_119: A0A6J8CIT0_MYTCO TLX3 
+3_120: A0A6J8CIY4_MYTCO EMX 
+3_121: A0A6J8CJY6_MYTCO T-cell leukemia homeobox protein 3,T-cell leukemia homeobox protein 2,T-cell leukemia homeobox protein 1 
+3_122: A0A6J8CK90_MYTCO EMX 
+3_123: A0A6J8CL77_MYTCO RAX 
+3_124: A0A6J8CLR7_MYTCO EMX 
+3_125: A0A6J8CP64_MYTCO PROP1 
+3_126: A0A6J8CQA8_MYTCO LHX6_8 
+3_127: A0A6J8CQI8_MYTCO Homeobox domain-containing protein 
+3_128: A0A6J8CZX6_MYTCO PBX1 
+3_129: A0A6J8D1Q7_MYTCO PROX1 
+3_130: A0A6J8D1U8_MYTCO MSX 
+3_131: A0A6J8D230_MYTCO Homeobox domain-containing protein 
+3_132: A0A6J8D326_MYTCO PBX1 
+3_133: A0A6J8D361_MYTCO ALX4 
+3_134: A0A6J8D371_MYTCO SIX4 
+3_135: A0A6J8D3N8_MYTCO Homeobox domain-containing protein 
+3_136: A0A6J8D474_MYTCO ZEB2 
+3_137: A0A6J8D4G9_MYTCO PBX1 
+3_138: A0A6J8D4Z1_MYTCO Dorsal root ganglia homeobox protein 
+3_139: A0A6J8D8H3_MYTCO DLX2 
+3_140: A0A6J8D9V9_MYTCO Homeobox domain-containing protein 
+3_141: A0A6J8DAR7_MYTCO OTX2 
+3_142: A0A6J8DBP9_MYTCO OTX2 
+3_143: A0A6J8DGF8_MYTCO ARX 
+3_144: A0A6J8DH72_MYTCO MEIS2 
+3_145: A0A6J8DIY8_MYTCO Homeobox protein orthopedia,Homeobox protein orthopedia B 
+3_146: A0A6J8DJ46_MYTCO EN 
+3_147: A0A6J8DJB6_MYTCO LHX6_8 
+3_148: A0A6J8DJH8_MYTCO LHX6_8 
+3_149: A0A6J8DK06_MYTCO EN 
+3_150: A0A6J8DQU1_MYTCO EVX 
+3_151: A0A6J8DR07_MYTCO Homeobox domain-containing protein 
+3_152: A0A6J8DTJ6_MYTCO NKX1 
+3_153: A0A6J8DU24_MYTCO GBX 
+3_154: A0A6J8DUM5_MYTCO EVX 
+3_155: A0A6J8DUS0_MYTCO HHEX 
+3_156: A0A6J8DVH7_MYTCO HLXB9 
+3_157: A0A6J8DWV1_MYTCO RAX 
+3_158: A0A6J8DYQ0_MYTCO PRRX 
+3_159: A0A6J8DYR4_MYTCO ARX 
+3_160: A0A6J8E8B0_MYTCO SATB2 
+3_161: A0A6J8ECG1_MYTCO NKX6-2 
+3_162: A0A6J8EFG0_MYTCO NKX6-2 
+3_163: A0A6J8EFH5_MYTCO Homeobox domain-containing protein 
+3_164: A0A6J8EIY5_MYTCO ISL1 
+3_165: A0A6J8EJZ7_MYTCO ISL1 
+3_166: A0A6J8ENB2_MYTCO NKX2-1 
+3_167: A0A6J8ENW5_MYTCO POU domain protein 
+3_168: A0A6J8EPC6_MYTCO POU domain protein 
+3_169: A0A6J8EU43_MYTCO HOX_1 
+3_170: A0A6J8EUF3_MYTCO HOX_5 
+3_171: A0A6J8EUF5_MYTCO Homeobox domain-containing protein 
+3_172: A0A6J8EUM6_MYTCO HOX_7 
+3_173: A0A6J8EV79_MYTCO Homeobox domain-containing protein 
+3_174: A0A6J8EWJ3_MYTCO ANTP 
+3_175: A0A6J8EWN4_MYTCO HOX_3 
+3_176: A0A6J8EWP7_MYTCO ANTP 
+3_177: A0A6J8EWU2_MYTCO HOX_4 
+3_178: A0A6J8EY74_MYTCO HOX_2 
+3_179: A0A6J8EYL3_MYTCO GSC 
+3_180: A0A6J8EYX5_MYTCO Homeobox protein not2,Homeobox protein notochord 
+3_181: A0A6J8EZ06_MYTCO NKX3-2 
+3_182: A0A6J8EZB9_MYTCO VAX 
+3_183: A0A6J8F3G1_MYTCO NKX5 
+4_0: A0A166GC00_OWEFU Homeobox protein 
+4_1: A0A2I6QBP1_OWEFU PAX6 
+4_2: A0A8J1T7B9_OWEFU Ofus.G013011 protein 
+4_3: A0A8J1T830_OWEFU Ofus.G013010 protein 
+4_4: A0A8J1TD46_OWEFU Ofus.G023899 protein 
+4_5: A0A8J1TIC1_OWEFU POU domain protein 
+4_6: A0A8J1TIQ6_OWEFU Homeobox protein cut-like 
+4_7: A0A8J1TKB3_OWEFU Ofus.G041928 protein 
+4_8: A0A8J1TLL2_OWEFU Ofus.G041930 protein 
+4_9: A0A8J1TM94_OWEFU Ofus.G041941 protein 
+4_10: A0A8J1TNT9_OWEFU Homeobox protein engrailed-like 
+4_11: A0A8J1TUD3_OWEFU Ofus.G07562 protein 
+4_12: A0A8J1TZ22_OWEFU POU domain protein (Fragment) 
+4_13: A0A8J1TZ61_OWEFU Ofus.G08640 protein 
+4_14: A0A8J1TZU4_OWEFU Ofus.G07663 protein 
+4_15: A0A8J1U651_OWEFU Ofus.G091312 protein 
+4_16: A0A8J1UAL6_OWEFU Ofus.G112012 protein 
+4_17: A0A8J1UC05_OWEFU Ofus.G11428 protein (Fragment) 
+4_18: A0A8J1UCV7_OWEFU Ofus.G112032 protein 
+4_19: A0A8J1UG53_OWEFU POU domain protein 
+4_20: A0A8J1UHF5_OWEFU POU domain protein 
+4_21: A0A8J1UID4_OWEFU Ofus.G082271 protein 
+4_22: A0A8J1UJ17_OWEFU Ofus.G1556 protein 
+4_23: A0A8J1UKC6_OWEFU POU domain protein 
+4_24: A0A8J1UKY0_OWEFU Visual system homeobox 2 
+4_25: A0A8J1UL28_OWEFU Homeobox protein 
+4_26: A0A8J1ULN0_OWEFU Ofus.G15405 protein 
+4_27: A0A8J1UN28_OWEFU Ofus.G151094 protein 
+4_28: A0A8J1UPA1_OWEFU Homeobox protein 
+4_29: A0A8J1UWG1_OWEFU Ofus.G21631 protein 
+4_30: A0A8J1XJI6_OWEFU POU domain protein 
+4_31: A0A8J1XNM0_OWEFU Ofus.G042159 protein 
+4_32: A0A8J1XNQ9_OWEFU Ofus.G041947 protein 
+4_33: A0A8J1XPH2_OWEFU Ofus.G05450 protein 
+4_34: A0A8J1XR32_OWEFU Ofus.G063287 protein 
+4_35: A0A8J1XTI5_OWEFU Ofus.G08800 protein 
+4_36: A0A8J1XV20_OWEFU Ofus.G08800 protein 
+4_37: A0A8J1Y336_OWEFU Ofus.G13485 protein 
+4_38: A0A8J1Y3W8_OWEFU POU domain protein 
+4_39: A0A8J1Y3X5_OWEFU One cut domain family member 
+4_40: A0A8J1Y520_OWEFU Visual system homeobox 2 
+4_41: A0A8S4MYZ0_OWEFU Homeobox domain-containing protein 
+4_42: A0A8S4N0G9_OWEFU Homeobox domain-containing protein 
+4_43: A0A8S4N0Q0_OWEFU Homeobox domain-containing protein 
+4_44: A0A8S4N0Y2_OWEFU Homeobox domain-containing protein 
+4_45: A0A8S4N1D9_OWEFU Homeobox domain-containing protein 
+4_46: A0A8S4N1Q5_OWEFU Homeobox domain-containing protein 
+4_47: A0A8S4N1Z8_OWEFU PAX3/7 
+4_48: A0A8S4N2S6_OWEFU Homeobox domain-containing protein 
+4_49: A0A8S4N2Y9_OWEFU PAX3/7 
+4_50: A0A8S4N3Y9_OWEFU Homeobox protein engrailed-like 
+4_51: A0A8S4NIW6_OWEFU Aristaless-like homeobox protein 
+4_52: A0A8S4NKP5_OWEFU Short stature homeobox 
+4_53: A0A8S4NS25_OWEFU Homeobox domain-containing protein 
+4_54: A0A8S4NSB6_OWEFU Homeobox domain-containing protein 
+4_55: A0A8S4NSZ1_OWEFU Homeobox domain-containing protein 
+4_56: A0A8S4NTX5_OWEFU Pax6 
+4_57: A0A8S4NVX6_OWEFU Pax6 
+4_58: A0A8S4NW90_OWEFU Pax6 
+4_59: A0A8S4NWV7_OWEFU Pax6 
+4_60: A0A8S4NYJ5_OWEFU Homeobox domain-containing protein 
+4_61: A0A8S4NZG7_OWEFU Pax6 
+4_62: A0A8S4P1L7_OWEFU LIM/homeobox protein Awh 
+4_63: A0A8S4P241_OWEFU LIM/homeobox protein Lhx9 
+4_64: A0A8S4P263_OWEFU POU domain protein 
+4_65: A0A8S4P2I1_OWEFU Homeobox domain-containing protein 
+4_66: A0A8S4PHK6_OWEFU Homeobox domain-containing protein 
+4_67: A0A8S4PRS0_OWEFU POU domain protein 
+4_68: A0A8S4Q4Y5_OWEFU One cut domain family member (Fragment) 
+4_69: A0A8S4Q4Z0_OWEFU Uncharacterized protein 
+4_70: A0A8S4Q800_OWEFU Homeobox domain-containing protein 
+4_71: A0A165US65_OWEFU Six3/6 
+4_72: A0A165US84_OWEFU Evx 
+4_73: A0A165US97_OWEFU NK2.1 
+4_74: A0A165USC6_OWEFU Caudal 
+4_75: A0A165USE9_OWEFU Otx 
+4_76: A0A165USH4_OWEFU Goosecoid 
+4_77: A0A2I6EEG1_OWEFU HB9 protein 
+4_78: A0A2I6QBN1_OWEFU NK6 
+4_79: A0A2I6QBN3_OWEFU NK2.2 
+4_80: A0A2I6QBN9_OWEFU MSX-B 
+4_81: A0A2I6QBP3_OWEFU MSX-A 
+4_82: A0A2I6QBP6_OWEFU PAX3/7 
+4_83: A0A8J1T4B5_OWEFU Ofus.G01138 protein 
+4_84: A0A8J1T4P3_OWEFU Ofus.G01318 protein 
+4_85: A0A8J1T4R4_OWEFU Ofus.G01106 protein 
+4_86: A0A8J1T4X5_OWEFU Ofus.G01283 protein 
+4_87: A0A8J1T4Y5_OWEFU Ofus.G01395 protein 
+4_88: A0A8J1T4Z9_OWEFU Ofus.G01396 protein 
+4_89: A0A8J1T535_OWEFU Ofus.G01962 protein 
+4_90: A0A8J1T5H7_OWEFU Ofus.G011394 protein 
+4_91: A0A8J1T5W3_OWEFU Ofus.G01397 protein 
+4_92: A0A8J1T5Z3_OWEFU Ofus.G011121 protein 
+4_93: A0A8J1T614_OWEFU Ofus.G011363 protein 
+4_94: A0A8J1T6P4_OWEFU Ofus.G012223 protein 
+4_95: A0A8J1T6R3_OWEFU Ofus.G012240 protein 
+4_96: A0A8J1T7E0_OWEFU Ofus.G012357 protein 
+4_97: A0A8J1T993_OWEFU Ofus.G014682 protein 
+4_98: A0A8J1TC99_OWEFU Ofus.G021930 protein 
+4_99: A0A8J1TFT2_OWEFU Ofus.G031371 protein 
+4_100: A0A8J1TH95_OWEFU Ofus.G033071 protein 
+4_101: A0A8J1TIB4_OWEFU Ofus.G034815 protein 
+4_102: A0A8J1TJ83_OWEFU Ofus.G033912 protein 
+4_103: A0A8J1TJB3_OWEFU Ofus.G033963 protein 
+4_104: A0A8J1TND9_OWEFU Ofus.G051205 protein 
+4_105: A0A8J1TPC4_OWEFU Ofus.G051361 protein 
+4_106: A0A8J1TQ22_OWEFU Ofus.G052949 protein 
+4_107: A0A8J1TQ83_OWEFU Ofus.G051372 protein 
+4_108: A0A8J1TQ88_OWEFU Ofus.G052906 protein 
+4_109: A0A8J1TQI2_OWEFU Ofus.G052766 protein 
+4_110: A0A8J1TR92_OWEFU Ofus.G052908 protein 
+4_111: A0A8J1TRV9_OWEFU Ofus.G052907 protein 
+4_112: A0A8J1TVS4_OWEFU Ofus.G07599 protein 
+4_113: A0A8J1TVW9_OWEFU Ofus.G072057 protein 
+4_114: A0A8J1TWH5_OWEFU Ofus.G071302 protein 
+4_115: A0A8J1TXC5_OWEFU Ofus.G072057 protein 
+4_116: A0A8J1TXI9_OWEFU Ofus.G072285 protein 
+4_117: A0A8J1TXV8_OWEFU Ofus.G07828 protein 
+4_118: A0A8J1TXW6_OWEFU Ofus.G08620 protein 
+4_119: A0A8J1TY39_OWEFU Ofus.G08870 protein 
+4_120: A0A8J1TY94_OWEFU Ofus.G08872 protein 
+4_121: A0A8J1TZB5_OWEFU Ofus.G081076 protein 
+4_122: A0A8J1TZD7_OWEFU Ofus.G08871 protein 
+4_123: A0A8J1U072_OWEFU Ofus.G08873 protein 
+4_124: A0A8J1U121_OWEFU Ofus.G081076 protein 
+4_125: A0A8J1U2Q5_OWEFU Ofus.G091187 protein 
+4_126: A0A8J1U389_OWEFU Ofus.G09586 protein 
+4_127: A0A8J1U3A9_OWEFU Ofus.G081076 protein 
+4_128: A0A8J1U4C9_OWEFU Ofus.G091644 protein 
+4_129: A0A8J1U6D9_OWEFU Ofus.G091636 protein 
+4_130: A0A8J1U6N6_OWEFU Ofus.G091923 protein 
+4_131: A0A8J1U7C5_OWEFU Ofus.G1152 protein 
+4_132: A0A8J1U7D2_OWEFU Ofus.G092437 protein 
+4_133: A0A8J1U7M4_OWEFU Ofus.G092200 protein 
+4_134: A0A8J1U832_OWEFU Ofus.G112010 protein 
+4_135: A0A8J1U8H8_OWEFU Ofus.G112004 protein 
+4_136: A0A8J1U9G2_OWEFU Ofus.G111963 protein 
+4_137: A0A8J1U9I4_OWEFU Ofus.G112052 protein 
+4_138: A0A8J1U9N6_OWEFU Ofus.G112009 protein 
+4_139: A0A8J1UAP0_OWEFU Ofus.G101934 protein 
+4_140: A0A8J1UBP8_OWEFU Ofus.G121899 protein 
+4_141: A0A8J1UD53_OWEFU Ofus.G112014 protein 
+4_142: A0A8J1UDF1_OWEFU Ofus.G112052 protein 
+4_143: A0A8J1UDK6_OWEFU Ofus.G112052 protein 
+4_144: A0A8J1UEH4_OWEFU Ofus.G13421 protein 
+4_145: A0A8J1UHP7_OWEFU Ofus.G13421 protein 
+4_146: A0A8J1UI38_OWEFU Ofus.G13326 protein 
+4_147: A0A8J1UM84_OWEFU Ofus.G15123 protein 
+4_148: A0A8J1UNW8_OWEFU Ofus.G16320 protein 
+4_149: A0A8J1UPU6_OWEFU Ofus.G16769 protein 
+4_150: A0A8J1UPZ6_OWEFU Ofus.G19784 protein 
+4_151: A0A8J1URX5_OWEFU Ofus.G21319 protein 
+4_152: A0A8J1USW5_OWEFU Ofus.G211179 protein 
+4_153: A0A8J1USW7_OWEFU Ofus.G19783 protein 
+4_154: A0A8J1UTM8_OWEFU Ofus.G18931 protein 
+4_155: A0A8J1UZX7_OWEFU Ofus.G241087 protein 
+4_156: A0A8J1V172_OWEFU Ofus.G241043 protein 
+4_157: A0A8J1XE80_OWEFU Ofus.G01399 protein 
+4_158: A0A8J1XEH4_OWEFU Ofus.G011030 protein 
+4_159: A0A8J1XFB5_OWEFU Ofus.G01400 protein 
+4_160: A0A8J1XFE5_OWEFU Ofus.G013459 protein 
+4_161: A0A8J1XFH6_OWEFU Ofus.G01394 protein 
+4_162: A0A8J1XFM8_OWEFU Ofus.G01398 protein 
+4_163: A0A8J1XFN8_OWEFU Ofus.G01439 protein 
+4_164: A0A8J1XFR7_OWEFU Ofus.G01617 protein 
+4_165: A0A8J1XFX1_OWEFU Ofus.G01691 protein 
+4_166: A0A8J1XGH9_OWEFU Ofus.G011715 protein 
+4_167: A0A8J1XHJ6_OWEFU Ofus.G013843 protein 
+4_168: A0A8J1XHJ9_OWEFU Ofus.G022350 protein 
+4_169: A0A8J1XHX7_OWEFU Ofus.G014437 protein 
+4_170: A0A8J1XM42_OWEFU Ofus.G033646 protein 
+4_171: A0A8J1XMG3_OWEFU Ofus.G0522 protein 
+4_172: A0A8J1XNH8_OWEFU Ofus.G052076 protein 
+4_173: A0A8J1XNT3_OWEFU Ofus.G052648 protein 
+4_174: A0A8J1XPB1_OWEFU Ofus.G0522 protein 
+4_175: A0A8J1XPS3_OWEFU Ofus.G0522 protein 
+4_176: A0A8J1XQ93_OWEFU Ofus.G052077 protein 
+4_177: A0A8J1XQF8_OWEFU Ofus.G05434 protein 
+4_178: A0A8J1XR59_OWEFU Ofus.G051841 protein 
+4_179: A0A8J1XUY2_OWEFU Ofus.G072057 protein 
+4_180: A0A8J1XVB3_OWEFU Ofus.G081194 protein 
+4_181: A0A8J1XVI0_OWEFU Ofus.G081572 protein 
+4_182: A0A8J1XVN6_OWEFU Ofus.G081076 protein 
+4_183: A0A8J1XVX0_OWEFU Ofus.G091752 protein 
+4_184: A0A8J1XW66_OWEFU Ofus.G092200 protein 
+4_185: A0A8J1XWF8_OWEFU Ofus.G081504 protein 
+4_186: A0A8J1XWL1_OWEFU Ofus.G09577 protein 
+4_187: A0A8J1XWV6_OWEFU Ofus.G09744 protein 
+4_188: A0A8J1XXX6_OWEFU Ofus.G092200 protein 
+4_189: A0A8J1Y043_OWEFU Ofus.G11430 protein 
+4_190: A0A8J1Y090_OWEFU Ofus.G112044 protein 
+4_191: A0A8J1Y1U3_OWEFU Ofus.G112001 protein 
+4_192: A0A8J1Y2F5_OWEFU Ofus.G122097 protein 
+4_193: A0A8J1Y3J5_OWEFU Ofus.G122949 protein 
+4_194: A0A8J1Y7V5_OWEFU Ofus.G18277 protein 
+4_195: A0A8J1Y877_OWEFU Ofus.G19736 protein 
+4_196: A0A8J1YB92_OWEFU Ofus.G241088 protein 
+4_197: A0A8S4MXX6_OWEFU Homeobox domain-containing protein 
+4_198: A0A8S4MZR0_OWEFU Uncharacterized protein 
+4_199: A0A8S4N056_OWEFU Uncharacterized protein 
+4_200: A0A8S4N103_OWEFU Uncharacterized protein 
+4_201: A0A8S4N1A7_OWEFU Uncharacterized protein 
+4_202: A0A8S4N396_OWEFU Homeobox domain-containing protein 
+4_203: A0A8S4N3U8_OWEFU Homeobox domain-containing protein 
+4_204: A0A8S4N570_OWEFU Homeobox domain-containing protein 
+4_205: A0A8S4NCI8_OWEFU Homeodomain-only protein 
+4_206: A0A8S4NDG6_OWEFU Uncharacterized protein 
+4_207: A0A8S4NPX3_OWEFU Homeobox domain-containing protein 
+4_208: A0A8S4NQ05_OWEFU Homeobox domain-containing protein 
+4_209: A0A8S4NYA8_OWEFU Homeobox domain-containing protein 
+4_210: A0A8S4P1R3_OWEFU Uncharacterized protein 
+4_211: A0A8S4P1Z9_OWEFU Homeobox domain-containing protein 
+4_212: A0A8S4P221_OWEFU Uncharacterized protein 
+4_213: A0A8S4P2N0_OWEFU Homeobox domain-containing protein 
+4_214: A0A8S4P2P7_OWEFU Uncharacterized protein 
+4_215: A0A8S4P4P8_OWEFU Homeobox domain-containing protein 
+4_216: A0A8S4P687_OWEFU Homeobox domain-containing protein (Fragment) 
+4_217: A0A8S4PD62_OWEFU Homeobox domain-containing protein 
+4_218: A0A8S4PLQ3_OWEFU Uncharacterized protein 
+4_219: A0A8S4PTX5_OWEFU Uncharacterized protein 
+4_220: A0A8S4PXG9_OWEFU Homeobox domain-containing protein (Fragment) 
+4_221: A0A8S4PZG3_OWEFU Homeobox domain-containing protein 
+4_222: A0A8S4Q9T7_OWEFU Homeobox domain-containing protein (Fragment) 
+5_0: Pdum_DN50323_c0_g1_i1.p1^
+5_1: Pdum_DN66869_c0_g1_i1.p1^
+5_2: Pdum_DN66937_c0_g1_i1.p1^
+5_3: Pdum_DN67112_c0_g1_i1.p1^
+5_4: Pdum_DN68407_c0_g1_i7.p1^
+5_5: Pdum_DN69195_c0_g1_i2.p1^
+5_6: Pdum_DN70214_c1_g1_i1.p1^
+5_7: Pdum_DN70407_c0_g1_i4.p1^
+5_8: Pdum_DN70407_c0_g2_i8.p1^
+5_9: Pdum_DN71779_c0_g1_i1.p1^
+5_10: Pdum_DN72039_c3_g4_i2.p1^
+5_11: Pdum_DN72621_c0_g1_i2.p1^
+5_12: Pdum_DN73679_c0_g1_i2.p1^
+5_13: Pdum_DN74284_c0_g1_i3.p1^
+5_14: Pdum_DN74415_c1_g1_i1.p1^
+5_15: Pdum_DN74981_c0_g1_i2.p1^
+5_16: Pdum_DN75322_c0_g2_i2.p1^
+5_17: Pdum_DN75755_c0_g1_i4.p1^
+5_18: Pdum_DN75781_c0_g1_i2.p1^
+5_19: Pdum_DN75939_c0_g1_i5.p1^
+5_20: Pdum_DN76380_c0_g1_i2.p1^
+5_21: Pdum_DN77586_c0_g1_i9.p1^
+5_22: Pdum_DN77615_c1_g1_i2.p1^
+5_23: Pdum_DN78247_c0_g1_i1.p1^
+5_24: Pdum_DN78352_c0_g1_i2.p1^
+5_25: Pdum_DN78757_c0_g1_i8.p1^
+5_26: Pdum_DN79758_c0_g1_i2.p1^
+5_27: Pdum_DN79817_c0_g1_i1.p1^
+5_28: Pdum_DN79894_c0_g1_i15.p1^
+5_29: Pdum_DN80119_c0_g1_i2.p1^
+5_30: Pdum_DN80655_c0_g3_i2.p1^
+5_31: Pdum_DN80764_c1_g1_i2.p1^
+5_32: Pdum_DN81015_c0_g1_i6.p1^
+5_33: Pdum_DN81108_c0_g1_i3.p1^
+5_34: Pdum_DN81110_c0_g1_i4.p1^
+5_35: Pdum_DN81728_c0_g1_i1.p1^
+5_36: Pdum_DN81728_c1_g1_i5.p1^
+5_37: Pdum_DN82374_c0_g2_i1.p1^
+5_38: Pdum_DN83076_c0_g2_i1.p1^
+5_39: Pdum_DN83264_c1_g2_i1.p1^
+5_40: Pdum_DN83273_c0_g1_i5.p1^
+5_41: Pdum_DN83362_c0_g1_i12.p1^
+5_42: Pdum_DN83553_c0_g1_i4.p1^
+5_43: Pdum_DN83667_c1_g1_i9.p1^
+5_44: Pdum_DN83852_c0_g2_i4.p1^
+5_45: Pdum_DN83966_c0_g1_i8.p1^
+5_46: Pdum_DN84079_c0_g1_i3.p1^
+5_47: Pdum_DN84301_c0_g1_i2.p1^
+5_48: Pdum_DN84796_c0_g1_i12.p1^
+5_49: Pdum_DN85739_c0_g1_i1.p1^
+5_50: Pdum_DN86128_c0_g1_i2.p1^
+5_51: Pdum_DN86613_c0_g1_i2.p1^
+5_52: Pdum_DN87249_c0_g1_i9.p1^
+5_53: Pdum_DN87251_c0_g1_i5.p1^
+5_54: Pdum_DN87433_c1_g1_i2.p1^
+5_55: Pdum_DN87519_c0_g1_i4.p1^
+5_56: Pdum_DN87922_c0_g1_i6.p1^
+5_57: Pdum_DN88478_c0_g1_i6.p1^
+5_58: Pdum_DN88717_c4_g1_i3.p1^
+5_59: Pdum_DN88878_c0_g1_i1.p1^
+5_60: Pdum_DN89526_c4_g1_i2.p1^
+5_61: Pdum_DN89862_c1_g2_i3.p1^
+5_62: Pdum_DN90853_c3_g1_i5.p1^
+5_63: Pdum_DN91247_c6_g1_i5.p1^
+5_64: Pdum_DN91293_c5_g1_i4.p1^
+5_65: Pdum_DN91323_c1_g1_i1.p1^
+5_66: Pdum_DN91429_c7_g4_i1.p1^
+5_67: Pdum_DN92058_c1_g1_i2.p1^
+5_68: Pdum_DN92432_c4_g1_i1.p1^
+6_0: Pele_DN102397_c0_g1_i1.p1^
+6_1: Pele_DN103616_c0_g1_i1.p1^
+6_2: Pele_DN122504_c0_g1_i1.p1^
+6_3: Pele_DN126275_c0_g1_i2.p1^
+6_4: Pele_DN130740_c0_g1_i8.p1^
+6_5: Pele_DN131147_c0_g1_i5.p1^
+6_6: Pele_DN133460_c1_g1_i12.p1^
+6_7: Pele_DN134626_c0_g2_i1.p1^
+6_8: Pele_DN134776_c0_g1_i1.p1^
+6_9: Pele_DN134842_c0_g2_i2.p1^
+6_10: Pele_DN134969_c3_g2_i5.p1^
+6_11: Pele_DN135596_c3_g1_i5.p1^
+6_12: Pele_DN136173_c0_g1_i1.p1^
+6_13: Pele_DN137043_c1_g1_i3.p1^
+6_14: Pele_DN137766_c0_g1_i6.p1^
+6_15: Pele_DN139229_c3_g1_i1.p1^
+6_16: Pele_DN139722_c1_g1_i7.p1^
+6_17: Pele_DN139785_c3_g2_i4.p1^
+6_18: Pele_DN141396_c6_g3_i8.p1^
+6_19: Pele_DN141821_c0_g1_i1.p1^
+6_20: Pele_DN142207_c2_g1_i18.p1^
+6_21: Pele_DN143168_c0_g1_i1.p1^
+6_22: Pele_DN143372_c0_g1_i3.p1^
+6_23: Pele_DN143640_c0_g2_i1.p1^
+6_24: Pele_DN144074_c0_g1_i7.p1^
+6_25: Pele_DN144512_c2_g1_i7.p1^
+6_26: Pele_DN144533_c0_g2_i7.p1^
+6_27: Pele_DN145271_c1_g2_i2.p1^
+6_28: Pele_DN145787_c0_g1_i7.p1^
+6_29: Pele_DN146218_c3_g5_i1.p1^
+6_30: Pele_DN146984_c1_g2_i4.p1^
+6_31: Pele_DN147870_c0_g2_i2.p1^
+6_32: Pele_DN147870_c0_g4_i2.p1^
+6_33: Pele_DN148207_c5_g3_i3.p1^
+6_34: Pele_DN149662_c3_g3_i1.p1^
+6_35: Pele_DN149768_c2_g3_i1.p1^
+6_36: Pele_DN150125_c1_g3_i1.p1^
+6_37: Pele_DN150624_c0_g4_i3.p1^
+6_38: Pele_DN150856_c1_g1_i10.p1^
+6_39: Pele_DN150887_c0_g2_i2.p1^
+6_40: Pele_DN151096_c1_g8_i2.p3^
+6_41: Pele_DN151192_c1_g2_i4.p1^
+6_42: Pele_DN152935_c0_g4_i2.p1^
+6_43: Pele_DN153039_c2_g3_i4.p1^
+6_44: Pele_DN153336_c2_g2_i3.p1^
+6_45: Pele_DN154028_c0_g1_i8.p1^
+6_46: Pele_DN154574_c0_g1_i7.p1^
+6_47: Pele_DN155309_c0_g1_i4.p1^
+6_48: Pele_DN155499_c1_g2_i7.p1^
+6_49: Pele_DN155681_c5_g2_i1.p1^
+6_50: Pele_DN156383_c1_g1_i10.p1^
+6_51: Pele_DN156788_c0_g1_i2.p1^
+6_52: Pele_DN156972_c3_g1_i1.p1^
+6_53: Pele_DN158131_c1_g1_i1.p1^
+6_54: Pele_DN158505_c0_g1_i1.p1^
+6_55: Pele_DN158688_c0_g2_i1.p1^
+6_56: Pele_DN158880_c0_g3_i1.p1^
+6_57: Pele_DN159040_c0_g1_i2.p1^
+6_58: Pele_DN159068_c4_g3_i3.p1^
+6_59: Pele_DN160581_c0_g1_i5.p1^
+6_60: Pele_DN160834_c0_g1_i5.p1^
+6_61: Pele_DN161083_c3_g4_i2.p1^
+6_62: Pele_DN161508_c2_g1_i2.p1^
+6_63: Pele_DN161761_c0_g3_i2.p1^
+6_64: Pele_DN162705_c0_g1_i7.p1^
+6_65: Pele_DN163341_c0_g7_i2.p1^
+6_66: Pele_DN163481_c0_g2_i5.p1^
+6_67: Pele_DN163654_c0_g2_i7.p1^
+6_68: Pele_DN164146_c1_g3_i5.p1^
+6_69: Pele_DN164572_c3_g2_i2.p1^
+6_70: Pele_DN165661_c1_g4_i3.p1^
+6_71: Pele_DN165696_c2_g1_i2.p1^
+7_0: A0A812AKM1_SEPPH POU domain protein 
+7_1: A0A812APR0_SEPPH PRRX 
+7_2: A0A812B6T3_SEPPH Homeobox domain-containing protein 
+7_3: A0A812B8U9_SEPPH Homeobox protein engrailed-like 
+7_4: A0A812B9P4_SEPPH EN 
+7_5: A0A812BAS7_SEPPH GBX 
+7_6: A0A812BER8_SEPPH Diencephalon/mesencephalon homeobox protein 1-B,Diencephalon/mesencephalon homeobox protein 1-A,Diencephalon/mesencephalon homeobox protein 1 
+7_7: A0A812BHZ1_SEPPH POU domain protein 
+7_8: A0A812BJL2_SEPPH Homeobox protein PKNOX2,Homeobox protein Meis1,Homeobox protein homothorax,Homeobox protein PKNOX1,Homeobox protein Meis2 
+7_9: A0A812BPP8_SEPPH Homeobox protein PKNOX2,Homeobox protein Meis1,Homeobox protein homothorax,Homeobox protein PKNOX1,Homeobox protein Meis2 
+7_10: A0A812BR48_SEPPH Homeobox domain-containing protein 
+7_11: A0A812BSA7_SEPPH Homeobox domain-containing protein 
+7_12: A0A812CGF8_SEPPH NKX1 
+7_13: A0A812CH23_SEPPH Homeobox domain-containing protein 
+7_14: A0A812CHV2_SEPPH Homeobox domain-containing protein 
+7_15: A0A812CKB5_SEPPH DNA-binding protein SATB 
+7_16: A0A812CU56_SEPPH DNA-binding protein SATB 
+7_17: A0A812D538_SEPPH Homeobox domain-containing protein 
+7_18: A0A812DGB7_SEPPH LBX 
+7_19: A0A812DH96_SEPPH LHX2_9 
+7_20: A0A812E850_SEPPH CERS5_6 
+7_21: A0A812E8A3_SEPPH Homeobox domain-containing protein 
+7_22: A0A812E8D3_SEPPH Homeobox domain-containing protein 
+7_23: A0A812ECF7_SEPPH Homeobox domain-containing protein 
+7_24: A0A812ERL0_SEPPH Homeobox domain-containing protein 
+7_25: A0A812EZS5_SEPPH Homeobox domain-containing protein 
+7_26: A0A812AM68_SEPPH NKX5 
+7_27: A0A812B373_SEPPH T-cell leukemia homeobox protein 3,T-cell leukemia homeobox protein 1,T-cell leukemia homeobox protein 2 
+7_28: A0A812B925_SEPPH ARX 
+7_29: A0A812BB01_SEPPH ISL1 
+7_30: A0A812BK74_SEPPH Brain-specific homeobox protein homolog 
+7_31: A0A812BNP1_SEPPH EVX 
+7_32: A0A812BTC3_SEPPH PAX3_7 
+7_33: A0A812CSX7_SEPPH PBC domain-containing protein 
+7_34: A0A812CVN2_SEPPH NKX2-5 
+7_35: A0A812D295_SEPPH PAX6 
+7_36: A0A812DH78_SEPPH LHX2_9 
+7_37: A0A812DLT3_SEPPH Homeobox protein DBX1,Homeobox protein DBX2,Homeobox protein DBX1-A,Homeobox protein DBX1-B 
+7_38: A0A812DM15_SEPPH HHEX 
+7_39: A0A812DNZ3_SEPPH DLX1_4_6 
+7_40: A0A812DPV1_SEPPH DLX1_4_6 
+7_41: A0A812DPY5_SEPPH HOX_3 
+7_42: A0A812DQW3_SEPPH LHX3_4 
+7_43: A0A812DSX2_SEPPH PROP1 
+7_44: A0A812DX13_SEPPH SIX3_6 
+7_45: A0A812E3X7_SEPPH ZEB2 
+7_46: A0A812EIQ4_SEPPH BARHL 
+7_47: A0A812EKG4_SEPPH ALX4 
+7_48: A0A812ESN4_SEPPH Homeodomain transcription factor 1,Putative homeodomain transcription factor 2,Putative homeodomain transcription factor 
+7_49: A0A812EU87_SEPPH EMX 

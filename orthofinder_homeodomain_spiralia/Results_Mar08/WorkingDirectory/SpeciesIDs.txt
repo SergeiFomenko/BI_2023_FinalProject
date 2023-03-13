@@ -1,0 +1,8 @@
+0: homeo_cgig.fasta
+1: homeo_ctel.fasta
+2: homeo_lgig.fasta
+3: homeo_mcor.fasta
+4: homeo_ofus.fasta
+5: homeo_pdum.fa
+6: homeo_pele.fa
+7: homeo_spha.fasta

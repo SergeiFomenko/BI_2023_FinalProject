@@ -1,0 +1,1 @@
+(homeo_lgig:0.0462372,(homeo_spha:0.709228,((homeo_mcor:0.415034,homeo_cgig:0.326832)N3:1,((homeo_pdum:0.521682,(homeo_pele:0.663172,homeo_ctel:0.246927)N6:1)N5:1,homeo_ofus:0.539575)N4:1)N2:1)N1:1)N0;

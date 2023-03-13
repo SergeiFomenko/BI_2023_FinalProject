@@ -1,0 +1,9 @@
+	homeo_cgig	homeo_ctel	homeo_lgig	homeo_mcor	homeo_ofus	homeo_pdum	homeo_pele	homeo_spha
+homeo_cgig	0.0	3.0	2.0	3.0	6.0	0.0	0.0	1.0
+homeo_ctel	41.0	0.0	11.0	14.0	23.0	1.0	4.0	1.0
+homeo_lgig	61.0	28.0	0.0	11.0	27.0	2.0	3.0	2.0
+homeo_mcor	78.0	33.0	14.0	0.0	27.0	1.0	1.0	3.0
+homeo_ofus	43.0	22.0	7.0	6.0	0.0	1.0	0.0	2.0
+homeo_pdum	42.0	24.0	12.0	9.0	21.0	0.0	3.0	4.0
+homeo_pele	39.0	18.0	11.0	13.0	21.0	4.0	0.0	3.0
+homeo_spha	27.0	13.0	7.0	8.0	17.0	2.0	2.0	0.0
