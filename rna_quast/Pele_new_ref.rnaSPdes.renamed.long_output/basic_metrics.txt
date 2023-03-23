@@ -1,0 +1,12 @@
+METRICS/TRANSCRIPTS                                    Pele_new_ref.rnaSPdes.renamed.long  
+ == BASIC TRANSCRIPTS METRICS (calculated without reference genome and gene database) == 
+Transcripts                                            433491                              
+
+Transcripts > 500 bp                                   200458                              
+Transcripts > 1000 bp                                  121478                              
+
+Average length of assembled transcripts                976.21                              
+Longest transcript                                     39465                               
+Total length                                           423178411                           
+
+Transcript N50                                         1899                                

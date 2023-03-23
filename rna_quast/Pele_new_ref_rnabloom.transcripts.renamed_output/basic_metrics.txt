@@ -1,0 +1,12 @@
+METRICS/TRANSCRIPTS                                    Pele_new_ref_rnabloom.transcripts.renamed  
+ == BASIC TRANSCRIPTS METRICS (calculated without reference genome and gene database) == 
+Transcripts                                            1274064                                    
+
+Transcripts > 500 bp                                   807602                                     
+Transcripts > 1000 bp                                  585204                                     
+
+Average length of assembled transcripts                1580.044                                   
+Longest transcript                                     44074                                      
+Total length                                           2013077345                                 
+
+Transcript N50                                         3051                                       

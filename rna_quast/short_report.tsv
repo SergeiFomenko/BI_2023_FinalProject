@@ -1,0 +1,4 @@
+METRICS/TRANSCRIPTS	Pdum_new_ref.Trinity.renamed.long	Pdum_new_ref.rnaSPAdes.renamed.long	Pdum_new_ref_rnabloom.transcripts.renamed	Pele_new_ref.Trinity.renamed.long	Pele_new_ref.rnaSPdes.renamed.long	Pele_new_ref_rnabloom.transcripts.renamed
+Transcripts	665918	287218	706997	1152755	433491	1274064
+Transcripts > 500 bp	393538	171434	573533	587876	200458	807602
+Transcripts > 1000 bp	247058	120548	483707	321193	121478	585204

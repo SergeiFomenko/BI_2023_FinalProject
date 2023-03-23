@@ -1,0 +1,12 @@
+METRICS/TRANSCRIPTS                                    Pele_new_ref.Trinity.renamed.long  
+ == BASIC TRANSCRIPTS METRICS (calculated without reference genome and gene database) == 
+Transcripts                                            1152755                            
+
+Transcripts > 500 bp                                   587876                             
+Transcripts > 1000 bp                                  321193                             
+
+Average length of assembled transcripts                970.876                            
+Longest transcript                                     30335                              
+Total length                                           1119181811                         
+
+Transcript N50                                         1723                               

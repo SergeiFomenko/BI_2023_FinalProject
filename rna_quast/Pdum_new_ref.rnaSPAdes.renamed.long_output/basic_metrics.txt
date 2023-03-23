@@ -1,0 +1,12 @@
+METRICS/TRANSCRIPTS                                    Pdum_new_ref.rnaSPAdes.renamed.long  
+ == BASIC TRANSCRIPTS METRICS (calculated without reference genome and gene database) == 
+Transcripts                                            287218                               
+
+Transcripts > 500 bp                                   171434                               
+Transcripts > 1000 bp                                  120548                               
+
+Average length of assembled transcripts                1304.155                             
+Longest transcript                                     28704                                
+Total length                                           374576833                            
+
+Transcript N50                                         2371                                 

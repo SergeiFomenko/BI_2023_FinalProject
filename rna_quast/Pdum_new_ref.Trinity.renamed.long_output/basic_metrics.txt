@@ -1,0 +1,12 @@
+METRICS/TRANSCRIPTS                                    Pdum_new_ref.Trinity.renamed.long  
+ == BASIC TRANSCRIPTS METRICS (calculated without reference genome and gene database) == 
+Transcripts                                            665918                             
+
+Transcripts > 500 bp                                   393538                             
+Transcripts > 1000 bp                                  247058                             
+
+Average length of assembled transcripts                1243.53                            
+Longest transcript                                     33554                              
+Total length                                           828088874                          
+
+Transcript N50                                         2286                               

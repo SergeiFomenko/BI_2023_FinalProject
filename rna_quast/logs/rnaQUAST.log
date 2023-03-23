@@ -1,0 +1,372 @@
+/mnt/c/phylo/programms/rnaQUAST-2.2.3/rnaQUAST.py --transcripts /mnt/c/worms/transcriptomes/Renewed_assemblies/Pdum_new_ref.Trinity.renamed.long.fasta /mnt/c/worms/transcriptomes/Renewed_assemblies/Pdum_new_ref.rnaSPAdes.renamed.long.fasta /mnt/c/worms/transcriptomes/Renewed_assemblies/Pdum_new_ref_rnabloom.transcripts.renamed.fasta /mnt/c/worms/transcriptomes/Renewed_assemblies/Pele_new_ref.Trinity.renamed.long.fasta /mnt/c/worms/transcriptomes/Renewed_assemblies/Pele_new_ref.rnaSPdes.renamed.long.fasta /mnt/c/worms/transcriptomes/Renewed_assemblies/Pele_new_ref_rnabloom.transcripts.renamed.fasta -o /mnt/c/worms/transcriptomes/rna_quast_results/
+
+rnaQUAST: 2.2.3
+
+System information:
+  OS: Linux-5.15.90.1-microsoft-standard-WSL2-x86_64-with-debian-bullseye-sid (linux_64)
+  Python version: 3.6.13
+  CPUs number: 8
+
+External tools:
+  matplotlib: 3.3.4
+  joblib: 1.0.1
+  gffutils: 0.11.1
+  blastn: 2.5.0+
+  makeblastdb: 2.5.0+
+  gmap: 2021-08-25
+
+Started: 2023-03-23 21:05:26
+
+Logging to /mnt/c/worms/transcriptomes/rna_quast_results/logs/rnaQUAST.log
+
+NOTICE: Maximum number of threads is set to 4 (use --threads option to set it manually)
+Using non strand specific transcripts...
+
+  2023-03-23 21:05:26
+  Getting transcripts from /mnt/c/worms/transcriptomes/Renewed_assemblies/Pdum_new_ref.Trinity.renamed.long.fasta...
+  Done.
+
+  2023-03-23 21:05:43
+  Getting transcripts from /mnt/c/worms/transcriptomes/Renewed_assemblies/Pdum_new_ref.rnaSPAdes.renamed.long.fasta...
+  Done.
+
+  2023-03-23 21:05:50
+  Getting transcripts from /mnt/c/worms/transcriptomes/Renewed_assemblies/Pdum_new_ref_rnabloom.transcripts.renamed.fasta...
+  Done.
+
+  2023-03-23 21:06:30
+  Getting transcripts from /mnt/c/worms/transcriptomes/Renewed_assemblies/Pele_new_ref.Trinity.renamed.long.fasta...
+  Done.
+
+  2023-03-23 21:06:57
+  Getting transcripts from /mnt/c/worms/transcriptomes/Renewed_assemblies/Pele_new_ref.rnaSPdes.renamed.long.fasta...
+  Done.
+
+  2023-03-23 21:07:05
+  Getting transcripts from /mnt/c/worms/transcriptomes/Renewed_assemblies/Pele_new_ref_rnabloom.transcripts.renamed.fasta...
+  Done.
+
+2023-03-23 21:07:45
+Transcripts:
+  /mnt/c/worms/transcriptomes/Renewed_assemblies/Pdum_new_ref.Trinity.renamed.long.fasta -> Pdum_new_ref.Trinity.renamed.long
+  /mnt/c/worms/transcriptomes/Renewed_assemblies/Pdum_new_ref.rnaSPAdes.renamed.long.fasta -> Pdum_new_ref.rnaSPAdes.renamed.long
+  /mnt/c/worms/transcriptomes/Renewed_assemblies/Pdum_new_ref_rnabloom.transcripts.renamed.fasta -> Pdum_new_ref_rnabloom.transcripts.renamed
+  /mnt/c/worms/transcriptomes/Renewed_assemblies/Pele_new_ref.Trinity.renamed.long.fasta -> Pele_new_ref.Trinity.renamed.long
+  /mnt/c/worms/transcriptomes/Renewed_assemblies/Pele_new_ref.rnaSPdes.renamed.long.fasta -> Pele_new_ref.rnaSPdes.renamed.long
+  /mnt/c/worms/transcriptomes/Renewed_assemblies/Pele_new_ref_rnabloom.transcripts.renamed.fasta -> Pele_new_ref_rnabloom.transcripts.renamed
+
+
+Processing transcripts from /mnt/c/worms/transcriptomes/Renewed_assemblies/Pdum_new_ref.Trinity.renamed.long.fasta:
+
+  2023-03-23 21:07:45
+  Getting BASIC TRANSCRIPTS metrics...
+  Done.
+  Getting SENSITIVITY metrics...
+
+2023-03-23 21:07:48
+  Running GeneMarkS-T (Gene Prediction in Transcripts)...
+
+ERROR! GeneMarkS-T failed for Pdum_new_ref.Trinity.renamed.long!
+    logs can be found in /mnt/c/worms/transcriptomes/rna_quast_results/logs/Pdum_new_ref.Trinity.renamed.long.GeneMarkS_T.out.log and /mnt/c/worms/transcriptomes/rna_quast_results/logs/Pdum_new_ref.Trinity.renamed.long.GeneMarkS_T.err.log.
+  Done.
+
+Getting SEPARATED report for Pdum_new_ref.Trinity.renamed.long...
+
+  2023-03-23 21:07:48
+  Getting TXT report...
+    Getting BASIC TRANSCRIPTS METRICS report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pdum_new_ref.Trinity.renamed.long_output/basic_metrics.txt
+    Getting ALIGNMENT METRICS report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pdum_new_ref.Trinity.renamed.long_output/alignment_metrics.txt
+    Getting ALIGNMENT METRICS FOR MISASSEMBLED (CHIMERIC) TRANSCRIPTS report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pdum_new_ref.Trinity.renamed.long_output/misassemblies.txt
+    Getting ASSEMBLY COMPLETENESS (SENSITIVITY) report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pdum_new_ref.Trinity.renamed.long_output/sensitivity.txt
+    Getting ASSEMBLY SPECIFICITY report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pdum_new_ref.Trinity.renamed.long_output/specificity.txt
+  Done.
+
+  2023-03-23 21:07:48
+  Getting DISTRIBUTION report...
+    Drawing cumulative transcript / isoform length plot...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pdum_new_ref.Trinity.renamed.long_output/transcript_length.png
+    Drawing Nx plot...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pdum_new_ref.Trinity.renamed.long_output/Nx.png
+  Done.
+
+  2023-03-23 21:07:52
+  Getting OTHER reports...
+  Done.
+
+Processing transcripts from /mnt/c/worms/transcriptomes/Renewed_assemblies/Pdum_new_ref.rnaSPAdes.renamed.long.fasta:
+
+  2023-03-23 21:07:52
+  Getting BASIC TRANSCRIPTS metrics...
+  Done.
+  Getting SENSITIVITY metrics...
+
+2023-03-23 21:07:54
+  Running GeneMarkS-T (Gene Prediction in Transcripts)...
+
+ERROR! GeneMarkS-T failed for Pdum_new_ref.rnaSPAdes.renamed.long!
+    logs can be found in /mnt/c/worms/transcriptomes/rna_quast_results/logs/Pdum_new_ref.rnaSPAdes.renamed.long.GeneMarkS_T.out.log and /mnt/c/worms/transcriptomes/rna_quast_results/logs/Pdum_new_ref.rnaSPAdes.renamed.long.GeneMarkS_T.err.log.
+  Done.
+
+Getting SEPARATED report for Pdum_new_ref.rnaSPAdes.renamed.long...
+
+  2023-03-23 21:07:54
+  Getting TXT report...
+    Getting BASIC TRANSCRIPTS METRICS report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pdum_new_ref.rnaSPAdes.renamed.long_output/basic_metrics.txt
+    Getting ALIGNMENT METRICS report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pdum_new_ref.rnaSPAdes.renamed.long_output/alignment_metrics.txt
+    Getting ALIGNMENT METRICS FOR MISASSEMBLED (CHIMERIC) TRANSCRIPTS report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pdum_new_ref.rnaSPAdes.renamed.long_output/misassemblies.txt
+    Getting ASSEMBLY COMPLETENESS (SENSITIVITY) report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pdum_new_ref.rnaSPAdes.renamed.long_output/sensitivity.txt
+    Getting ASSEMBLY SPECIFICITY report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pdum_new_ref.rnaSPAdes.renamed.long_output/specificity.txt
+  Done.
+
+  2023-03-23 21:07:54
+  Getting DISTRIBUTION report...
+    Drawing cumulative transcript / isoform length plot...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pdum_new_ref.rnaSPAdes.renamed.long_output/transcript_length.png
+    Drawing Nx plot...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pdum_new_ref.rnaSPAdes.renamed.long_output/Nx.png
+  Done.
+
+  2023-03-23 21:07:56
+  Getting OTHER reports...
+  Done.
+
+Processing transcripts from /mnt/c/worms/transcriptomes/Renewed_assemblies/Pdum_new_ref_rnabloom.transcripts.renamed.fasta:
+
+  2023-03-23 21:07:56
+  Getting BASIC TRANSCRIPTS metrics...
+  Done.
+  Getting SENSITIVITY metrics...
+
+2023-03-23 21:08:06
+  Running GeneMarkS-T (Gene Prediction in Transcripts)...
+
+ERROR! GeneMarkS-T failed for Pdum_new_ref_rnabloom.transcripts.renamed!
+    logs can be found in /mnt/c/worms/transcriptomes/rna_quast_results/logs/Pdum_new_ref_rnabloom.transcripts.renamed.GeneMarkS_T.out.log and /mnt/c/worms/transcriptomes/rna_quast_results/logs/Pdum_new_ref_rnabloom.transcripts.renamed.GeneMarkS_T.err.log.
+  Done.
+
+Getting SEPARATED report for Pdum_new_ref_rnabloom.transcripts.renamed...
+
+  2023-03-23 21:08:06
+  Getting TXT report...
+    Getting BASIC TRANSCRIPTS METRICS report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pdum_new_ref_rnabloom.transcripts.renamed_output/basic_metrics.txt
+    Getting ALIGNMENT METRICS report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pdum_new_ref_rnabloom.transcripts.renamed_output/alignment_metrics.txt
+    Getting ALIGNMENT METRICS FOR MISASSEMBLED (CHIMERIC) TRANSCRIPTS report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pdum_new_ref_rnabloom.transcripts.renamed_output/misassemblies.txt
+    Getting ASSEMBLY COMPLETENESS (SENSITIVITY) report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pdum_new_ref_rnabloom.transcripts.renamed_output/sensitivity.txt
+    Getting ASSEMBLY SPECIFICITY report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pdum_new_ref_rnabloom.transcripts.renamed_output/specificity.txt
+  Done.
+
+  2023-03-23 21:08:06
+  Getting DISTRIBUTION report...
+    Drawing cumulative transcript / isoform length plot...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pdum_new_ref_rnabloom.transcripts.renamed_output/transcript_length.png
+    Drawing Nx plot...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pdum_new_ref_rnabloom.transcripts.renamed_output/Nx.png
+  Done.
+
+  2023-03-23 21:08:09
+  Getting OTHER reports...
+  Done.
+
+Processing transcripts from /mnt/c/worms/transcriptomes/Renewed_assemblies/Pele_new_ref.Trinity.renamed.long.fasta:
+
+  2023-03-23 21:08:09
+  Getting BASIC TRANSCRIPTS metrics...
+  Done.
+  Getting SENSITIVITY metrics...
+
+2023-03-23 21:08:14
+  Running GeneMarkS-T (Gene Prediction in Transcripts)...
+
+ERROR! GeneMarkS-T failed for Pele_new_ref.Trinity.renamed.long!
+    logs can be found in /mnt/c/worms/transcriptomes/rna_quast_results/logs/Pele_new_ref.Trinity.renamed.long.GeneMarkS_T.out.log and /mnt/c/worms/transcriptomes/rna_quast_results/logs/Pele_new_ref.Trinity.renamed.long.GeneMarkS_T.err.log.
+  Done.
+
+Getting SEPARATED report for Pele_new_ref.Trinity.renamed.long...
+
+  2023-03-23 21:08:14
+  Getting TXT report...
+    Getting BASIC TRANSCRIPTS METRICS report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pele_new_ref.Trinity.renamed.long_output/basic_metrics.txt
+    Getting ALIGNMENT METRICS report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pele_new_ref.Trinity.renamed.long_output/alignment_metrics.txt
+    Getting ALIGNMENT METRICS FOR MISASSEMBLED (CHIMERIC) TRANSCRIPTS report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pele_new_ref.Trinity.renamed.long_output/misassemblies.txt
+    Getting ASSEMBLY COMPLETENESS (SENSITIVITY) report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pele_new_ref.Trinity.renamed.long_output/sensitivity.txt
+    Getting ASSEMBLY SPECIFICITY report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pele_new_ref.Trinity.renamed.long_output/specificity.txt
+  Done.
+
+  2023-03-23 21:08:14
+  Getting DISTRIBUTION report...
+    Drawing cumulative transcript / isoform length plot...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pele_new_ref.Trinity.renamed.long_output/transcript_length.png
+    Drawing Nx plot...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pele_new_ref.Trinity.renamed.long_output/Nx.png
+  Done.
+
+  2023-03-23 21:08:19
+  Getting OTHER reports...
+  Done.
+
+Processing transcripts from /mnt/c/worms/transcriptomes/Renewed_assemblies/Pele_new_ref.rnaSPdes.renamed.long.fasta:
+
+  2023-03-23 21:08:19
+  Getting BASIC TRANSCRIPTS metrics...
+  Done.
+  Getting SENSITIVITY metrics...
+
+2023-03-23 21:08:21
+  Running GeneMarkS-T (Gene Prediction in Transcripts)...
+
+ERROR! GeneMarkS-T failed for Pele_new_ref.rnaSPdes.renamed.long!
+    logs can be found in /mnt/c/worms/transcriptomes/rna_quast_results/logs/Pele_new_ref.rnaSPdes.renamed.long.GeneMarkS_T.out.log and /mnt/c/worms/transcriptomes/rna_quast_results/logs/Pele_new_ref.rnaSPdes.renamed.long.GeneMarkS_T.err.log.
+  Done.
+
+Getting SEPARATED report for Pele_new_ref.rnaSPdes.renamed.long...
+
+  2023-03-23 21:08:22
+  Getting TXT report...
+    Getting BASIC TRANSCRIPTS METRICS report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pele_new_ref.rnaSPdes.renamed.long_output/basic_metrics.txt
+    Getting ALIGNMENT METRICS report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pele_new_ref.rnaSPdes.renamed.long_output/alignment_metrics.txt
+    Getting ALIGNMENT METRICS FOR MISASSEMBLED (CHIMERIC) TRANSCRIPTS report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pele_new_ref.rnaSPdes.renamed.long_output/misassemblies.txt
+    Getting ASSEMBLY COMPLETENESS (SENSITIVITY) report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pele_new_ref.rnaSPdes.renamed.long_output/sensitivity.txt
+    Getting ASSEMBLY SPECIFICITY report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pele_new_ref.rnaSPdes.renamed.long_output/specificity.txt
+  Done.
+
+  2023-03-23 21:08:22
+  Getting DISTRIBUTION report...
+    Drawing cumulative transcript / isoform length plot...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pele_new_ref.rnaSPdes.renamed.long_output/transcript_length.png
+    Drawing Nx plot...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pele_new_ref.rnaSPdes.renamed.long_output/Nx.png
+  Done.
+
+  2023-03-23 21:08:23
+  Getting OTHER reports...
+  Done.
+
+Processing transcripts from /mnt/c/worms/transcriptomes/Renewed_assemblies/Pele_new_ref_rnabloom.transcripts.renamed.fasta:
+
+  2023-03-23 21:08:23
+  Getting BASIC TRANSCRIPTS metrics...
+  Done.
+  Getting SENSITIVITY metrics...
+
+2023-03-23 21:08:27
+  Running GeneMarkS-T (Gene Prediction in Transcripts)...
+
+ERROR! GeneMarkS-T failed for Pele_new_ref_rnabloom.transcripts.renamed!
+    logs can be found in /mnt/c/worms/transcriptomes/rna_quast_results/logs/Pele_new_ref_rnabloom.transcripts.renamed.GeneMarkS_T.out.log and /mnt/c/worms/transcriptomes/rna_quast_results/logs/Pele_new_ref_rnabloom.transcripts.renamed.GeneMarkS_T.err.log.
+  Done.
+
+Getting SEPARATED report for Pele_new_ref_rnabloom.transcripts.renamed...
+
+  2023-03-23 21:08:28
+  Getting TXT report...
+    Getting BASIC TRANSCRIPTS METRICS report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pele_new_ref_rnabloom.transcripts.renamed_output/basic_metrics.txt
+    Getting ALIGNMENT METRICS report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pele_new_ref_rnabloom.transcripts.renamed_output/alignment_metrics.txt
+    Getting ALIGNMENT METRICS FOR MISASSEMBLED (CHIMERIC) TRANSCRIPTS report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pele_new_ref_rnabloom.transcripts.renamed_output/misassemblies.txt
+    Getting ASSEMBLY COMPLETENESS (SENSITIVITY) report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pele_new_ref_rnabloom.transcripts.renamed_output/sensitivity.txt
+    Getting ASSEMBLY SPECIFICITY report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pele_new_ref_rnabloom.transcripts.renamed_output/specificity.txt
+  Done.
+
+  2023-03-23 21:08:28
+  Getting DISTRIBUTION report...
+    Drawing cumulative transcript / isoform length plot...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pele_new_ref_rnabloom.transcripts.renamed_output/transcript_length.png
+    Drawing Nx plot...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/Pele_new_ref_rnabloom.transcripts.renamed_output/Nx.png
+  Done.
+
+  2023-03-23 21:08:33
+  Getting OTHER reports...
+  Done.
+
+2023-03-23 21:08:33
+Getting COMPARISON report...
+
+  2023-03-23 21:08:33
+  Getting TXT report...
+    Getting BASIC TRANSCRIPTS METRICS report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/comparison_output/basic_metrics.txt
+    Getting ALIGNMENT METRICS report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/comparison_output/alignment_metrics.txt
+    Getting ALIGNMENT METRICS FOR MISASSEMBLED (CHIMERIC) TRANSCRIPTS report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/comparison_output/misassemblies.txt
+    Getting ASSEMBLY COMPLETENESS (SENSITIVITY) report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/comparison_output/sensitivity.txt
+    Getting ASSEMBLY SPECIFICITY report...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/comparison_output/specificity.txt
+  Done.
+
+  2023-03-23 21:08:33
+  Getting DISTRIBUTION report...
+    Drawing cumulative transcript / isoform length plot...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/comparison_output/transcript_length.png
+    Drawing Nx plot...
+      saved to /mnt/c/worms/transcriptomes/rna_quast_results/comparison_output/Nx.png
+  Done.
+  saved to /mnt/c/worms/transcriptomes/rna_quast_results/comparison_output
+
+2023-03-23 21:08:49
+Getting SHORT SUMMARY report...
+  saved to
+    /mnt/c/worms/transcriptomes/rna_quast_results/short_report.txt
+    /mnt/c/worms/transcriptomes/rna_quast_results/short_report.tex
+    /mnt/c/worms/transcriptomes/rna_quast_results/short_report.pdf
+
+THE QUALITY OF TRANSCRIPTOME ASSEMBLY DONE. RESULTS: /mnt/c/worms/transcriptomes/rna_quast_results/
+
+Separated assemblies reports are saved to
+  /mnt/c/worms/transcriptomes/rna_quast_results/Pdum_new_ref.Trinity.renamed.long_output
+  /mnt/c/worms/transcriptomes/rna_quast_results/Pdum_new_ref.rnaSPAdes.renamed.long_output
+  /mnt/c/worms/transcriptomes/rna_quast_results/Pdum_new_ref_rnabloom.transcripts.renamed_output
+  /mnt/c/worms/transcriptomes/rna_quast_results/Pele_new_ref.Trinity.renamed.long_output
+  /mnt/c/worms/transcriptomes/rna_quast_results/Pele_new_ref.rnaSPdes.renamed.long_output
+  /mnt/c/worms/transcriptomes/rna_quast_results/Pele_new_ref_rnabloom.transcripts.renamed_output
+Comparison assemblies report are saved to /mnt/c/worms/transcriptomes/rna_quast_results/comparison_output
+  PDF version (tables and plots) saved to /mnt/c/worms/transcriptomes/rna_quast_results/short_report.pdf
+  TXT version (tables and plots) saved to /mnt/c/worms/transcriptomes/rna_quast_results/short_report.txt
+
+Log saved to /mnt/c/worms/transcriptomes/rna_quast_results/logs/rnaQUAST.log
+
+Finished: 2023-03-23 21:08:50
+Elapsed time: 0:03:23.698007
+NOTICEs: 1; WARNINGs: 0; non-fatal ERRORs: 6
+
+non-fatal ERRORs:
+  non-fatal ERROR: GeneMarkS-T failed for Pdum_new_ref.Trinity.renamed.long!
+  non-fatal ERROR: GeneMarkS-T failed for Pdum_new_ref.rnaSPAdes.renamed.long!
+  non-fatal ERROR: GeneMarkS-T failed for Pdum_new_ref_rnabloom.transcripts.renamed!
+  non-fatal ERROR: GeneMarkS-T failed for Pele_new_ref.Trinity.renamed.long!
+  non-fatal ERROR: GeneMarkS-T failed for Pele_new_ref.rnaSPdes.renamed.long!
+  non-fatal ERROR: GeneMarkS-T failed for Pele_new_ref_rnabloom.transcripts.renamed!
+
+Thank you for using rnaQUAST!
+
